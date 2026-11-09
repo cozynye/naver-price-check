@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>네이버 쇼핑 바로검색</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <form id="form" autocomplete="off">
+    <label for="query" class="label">네이버 쇼핑에서 검색</label>
+    <input id="query" type="text" placeholder="상품명" spellcheck="false">
+    <div class="row">
+      <button id="search" type="submit" disabled>네이버 쇼핑에서 검색</button>
+      <a id="web-search" href="#">통합검색으로</a>
+    </div>
+    <p id="status" class="status" aria-live="polite"></p>
+  </form>
+  <script src="naver.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

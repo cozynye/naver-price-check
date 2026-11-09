@@ -1,0 +1,3167 @@
+[
+ {
+  "name": "G마켓",
+  "category": "종합",
+  "url": "https://item.gmarket.co.kr/Item?goodsCode=4814731104",
+  "host": "item.gmarket.co.kr",
+  "og_title": "G마켓-크리넥스 3겹 컴포트소프트 호호바 30+...",
+  "og_site_name": "Gmarket",
+  "og_type": "g-favorites:item",
+  "title": "G마켓 - 크리넥스 3겹 컴포트소프트 호호바 30+3M-30롤",
+  "h1": "G마켓",
+  "jsonld": [
+   {
+    "name": "크리넥스 3겹 컴포트소프트 호호바 30+3M-30롤",
+    "brand": ""
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "크리넥스 3겹 컴포트소프트 호호바 30+3M-30롤",
+  "source": "jsonld",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "옥션",
+  "category": "종합",
+  "url": "https://itempage3.auction.co.kr/DetailView.aspx?itemno=C337580252",
+  "host": "itempage3.auction.co.kr",
+  "og_title": "미샤 블프 전품목 1+1 / BEST 앰...",
+  "og_site_name": "Auction",
+  "og_type": "website",
+  "title": "미샤 블프 전품목 1+1 / BEST 앰플 에센스 / 단독 구매금액 사은품까지 - 옥션",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "미샤 블프 전품목 1+1 / BEST 앰플 에센스 / 단독 구매금액 사은품까지",
+    "brand": "미샤"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "미샤 블프 전품목 1+1 / BEST 앰플 에센스 / 단독 구매금액 사은품까지",
+  "source": "jsonld",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "카카오 쇼핑하기",
+  "category": "종합",
+  "url": "https://store.kakao.com/pngshop/products/759303138?area=mainp",
+  "host": "store.kakao.com",
+  "og_title": "[5천원+7%+7%할인] 팸퍼스 기저귀 2박스 골라담기+모바일5천원+체험팩16매증정(엔젤브리즈,통잠,터치오브네이처 등)",
+  "og_site_name": "톡딜",
+  "og_type": "article",
+  "title": "[5천원+7%+7%할인] 팸퍼스 기저귀 2박스 골라담기+모바일5천원+체험팩16매증정(엔젤브리즈,통잠,터치오브네이처 등) | 톡딜",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "[5천원+7%+7%할인] 팸퍼스 기저귀 2박스 골라담기+모바일5천원+체험팩16매증정(엔젤브리즈,통잠,터치오브네이처 등)",
+    "brand": "피앤지 온라인 스토어"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "피앤지 온라인 스토어 팸퍼스 기저귀 2박스 골라담기+모바일5천원+체험팩16매증정(엔젤브리즈,통잠,터치오브네이처 등)",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "11번가",
+  "category": "종합",
+  "url": "https://www.11st.co.kr/products/6441858178",
+  "host": "www.11st.co.kr",
+  "og_title": "[11번가] [마인드브릿지]본사 여성 그랜드십일절 FW 인기 BEST 아이템 최대특가 캐시미어 울 코트/다운 패딩/가죽 스웨이드 점퍼/니트/가디건//자켓/슬랙스 외 BEST 100종~85%OFF",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[마인드브릿지]본사 여성 그랜드십일절 FW 인기 BEST 아이템 최대특가 캐시미어 울 코트/다운 패딩/가죽 스웨이드 점퍼/니트/가디건//자켓/슬랙스 외 BEST 100종~85%OFF",
+  "h1": "쇼킹딜",
+  "jsonld": [
+   {
+    "name": "[마인드브릿지]본사 여성 그랜드십일절 FW 인기 BEST 아이템 최대특가 캐시미어 울 코트/다운 패딩/가죽 스웨이드 점퍼/니트/가디건//자켓/슬랙스 외 BEST 100종~85%OFF",
+    "brand": "마인드브릿지"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "[마인드브릿지]본사 여성 그랜드십일절 FW 인기 BEST 아이템 최대특가 캐시미어 울 코트/다운 패딩/가죽",
+  "source": "jsonld",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "카카오톡 선물하기",
+  "category": "종합",
+  "url": "https://gift.kakao.com/home",
+  "host": "gift.kakao.com",
+  "og_title": "[1+1][탐라왕] 달콤한 과즙이 가득, 제주 황금향 2kg 2박스 (총 4kg)",
+  "og_site_name": "선물하기",
+  "og_type": "article",
+  "title": "상품 : 선물하기",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[1+1][탐라왕] 달콤한 과즙이 가득, 제주 황금향 2kg 2박스 (총 4kg)",
+  "source": "og:title",
+  "via": "headless"
+ },
+ {
+  "name": "쿠팡",
+  "category": "종합",
+  "url": "https://www.coupang.com/vp/products/7225189423?itemId=954937993&vendorItemId=5351802654",
+  "host": "www.coupang.com",
+  "og_title": "루나미 소프트 오버나이트 - 일반 오버나이트 | 쿠팡",
+  "og_site_name": "쿠팡",
+  "og_type": "website",
+  "title": "루나미 소프트 오버나이트 - 일반 오버나이트 | 쿠팡",
+  "h1": "루나미 소프트 오버나이트",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "루나미 소프트 오버나이트",
+  "source": "og:title",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "CJ온스타일",
+  "category": "종합",
+  "url": "https://display.cjonstyle.com/p/mocode/M1241076",
+  "host": "display.cjonstyle.com",
+  "og_title": "CJ온스타일",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[최대 46%할인+10%적립] 아이오페 특가 - CJ ONSTYLE",
+  "h1": "CJ ONSTYLE",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "CJ온스타일",
+  "source": "og:title",
+  "via": "headless"
+ },
+ {
+  "name": "홈플러스",
+  "category": "종합",
+  "url": "https://mfront.homeplus.co.kr/item?itemNo=009303391&storeType=HYPER",
+  "host": "mfront.homeplus.co.kr",
+  "og_title": null,
+  "og_site_name": "홈플러스",
+  "og_type": "website",
+  "title": "신선특란 30개입 | 홈플러스",
+  "h1": "신선특란 30개입",
+  "jsonld": [
+   {
+    "name": "신선특란 30개입",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "신선특란 30개입",
+  "source": "jsonld",
+  "via": "headless-v2"
+ },
+ {
+  "name": "NS홈쇼핑",
+  "category": "종합",
+  "url": "https://m.nsmall.com/goods/36255238",
+  "host": "m.nsmall.com",
+  "og_title": "여수 돌산 갓김치5kg + 고들빼기김치 1kg",
+  "og_site_name": "NS홈쇼핑- 건강한 아이디어",
+  "og_type": "product",
+  "title": "여수 돌산 갓김치5kg + 고들빼기김치 1kg",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "여수 돌산 갓김치5kg + 고들빼기김치 1kg",
+    "brand": "웰빙촌"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "웰빙촌 여수 돌산 갓김치5kg + 고들빼기김치 1kg",
+  "source": "jsonld",
+  "via": "headless-v2"
+ },
+ {
+  "name": "롯데온",
+  "category": "종합",
+  "url": "https://www.lotteon.com/p/product/LE1208978401?sitmNo=LE1208978401_1248600915&dp_infw_cd=MAT60875&areaCode=R01%5ERCM1113Z_T01_P01",
+  "host": "www.lotteon.com",
+  "og_title": "[바비브라운]스킨 코렉터 스틱 : 롯데ON",
+  "og_site_name": "롯데ON",
+  "og_type": "website",
+  "title": "[바비브라운]스킨 코렉터 스틱 : 롯데ON",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "스킨 코렉터 스틱",
+    "brand": "바비브라운"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "바비브라운 스킨 코렉터 스틱",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "GS샵",
+  "category": "종합",
+  "url": "https://www.gsshop.com:443/prd/prd.gs?prdid=1092409414&svcid=mc&lseq=416701-1&gsid=ECmain-AU416701-1-AU416701-1-1",
+  "host": "www.gsshop.com:443",
+  "og_title": "로우앤 프리미에르 캐시미어 블렌딩 기모 핀턱 팬츠 1종[런칭 가격 89.900원]",
+  "og_site_name": "gsshop",
+  "og_type": "product",
+  "title": "로우앤 프리미에르 캐시미어 블렌딩 기모 핀턱 팬츠 1종[런칭 가격 89.900원] - GS SHOP",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "로우앤 프리미에르 캐시미어 블렌딩 기모 핀턱 팬츠 1종[런칭 가격 89.900원]",
+    "brand": "로우앤"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "로우앤 프리미에르 캐시미어 블렌딩 기모 핀턱 팬츠 1종[런칭 가격 89.900원]",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "SSG닷컴",
+  "category": "종합",
+  "url": "https://www.ssg.com/item/itemView.ssg?itemId=1000894523409",
+  "host": "www.ssg.com",
+  "og_title": "[타임딜] 저온당일착유 국산 참기름 300ml (기름병홀더제공) - SSG.COM",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[타임딜] 저온당일착유 국산 참기름 300ml (기름병홀더제공) - SSG.COM",
+  "h1": "믿고 사는 즐거움 SSG.COM",
+  "jsonld": [
+   {
+    "name": "[타임딜] 저온당일착유 국산 참기름 300ml (기름병홀더제공)",
+    "brand": "고래방앗간"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "고래방앗간 [타임딜] 저온당일착유 국산 참기름 300ml (기름병홀더제공)",
+  "source": "jsonld",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "우체국쇼핑",
+  "category": "종합",
+  "url": "https://mall.epost.go.kr/mo/goods/goodsDetailView.do?goodsCd=ES1304953&pavlnDivCd=03&goodsDispTypeCd=&goodsDispTypeDtlCd=&ctgryCd=107205000&searchTermCd=ES1304953",
+  "host": "mall.epost.go.kr",
+  "og_title": "[우체국쇼핑] (0호 상자) 쉽고 간편한 우편함 쏙상자 1묶음(5개)",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "우체국 쇼핑몰",
+  "h1": "우체국 쇼핑",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[우체국쇼핑] (0호 상자) 쉽고 간편한 우편함 쏙상자 1묶음(5개)",
+  "source": "og:title",
+  "via": "headless"
+ },
+ {
+  "name": "예스24",
+  "category": "종합",
+  "url": "https://www.yes24.com/product/goods/199646868",
+  "host": "www.yes24.com",
+  "og_title": "마루는 강쥐 챌린지 동화 1. 망했어요? 망고 맛 드림! | 모죠 | 다산어린이 - 예스24",
+  "og_site_name": "예스24",
+  "og_type": "book",
+  "title": "마루는 강쥐 챌린지 동화 1. 망했어요? 망고 맛 드림! | 모죠 | 다산어린이 - 예스24",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "마루는 강쥐 챌린지 동화 1. 망했어요? 망고 맛 드림!",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "마루는 강쥐 챌린지 동화 1. 망했어요? 망고 맛 드림!",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "더현대닷컴",
+  "category": "종합",
+  "url": "https://hi.thehyundai.com/product/40B2028103?sectId=1031",
+  "host": "hi.thehyundai.com",
+  "og_title": "업사이클 다운 머플러",
+  "og_site_name": "더현대Hi",
+  "og_type": "website",
+  "title": "업사이클 다운 머플러 | 더현대Hi",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "업사이클 다운 머플러",
+  "source": "og:title",
+  "via": "headless-v2"
+ },
+ {
+  "name": "다이소몰",
+  "category": "종합",
+  "url": "https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1045444",
+  "host": "www.daisomall.co.kr",
+  "og_title": "플라워 실리콘 냄비 받침 | 다이소 | 냄비/냄비뚜껑/냄비받침 | 1,000원 - 다이소몰",
+  "og_site_name": "다이소몰",
+  "og_type": "product",
+  "title": "플라워 실리콘 냄비 받침 | 다이소 | 냄비/냄비뚜껑/냄비받침 | 1,000원 - 다이소몰",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "플라워 실리콘 냄비 받침",
+    "brand": "다이소"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "다이소 플라워 실리콘 냄비 받침",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "알라딘",
+  "category": "종합",
+  "url": "https://www.aladin.co.kr/m/bookfund/view.aspx?pid=3047",
+  "host": "www.aladin.co.kr",
+  "og_title": "유물력 (스프링)",
+  "og_site_name": "aladin",
+  "og_type": "books.book",
+  "title": "알라딘: 북펀드",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "유물력 (스프링)",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "무신사",
+  "category": "패션",
+  "url": "https://www.musinsa.com/products/7521805",
+  "host": "www.musinsa.com",
+  "og_title": "살로몬(SALOMON) 슬레이트 인슐레이션 팬츠_LD0379800 - 사이즈 & 후기 | 무신사",
+  "og_site_name": "무신사",
+  "og_type": "product",
+  "title": "살로몬(SALOMON) 슬레이트 인슐레이션 팬츠_LD0379800 - 사이즈 & 후기 | 무신사",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "슬레이트 인슐레이션 팬츠_LD0379800",
+    "brand": "살로몬"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "살로몬 슬레이트 인슐레이션 팬츠_LD0379800",
+  "source": "jsonld",
+  "via": "headless-v2"
+ },
+ {
+  "name": "에누리",
+  "category": "종합",
+  "url": "https://price.enuri.com/catalog/114235457",
+  "host": "price.enuri.com",
+  "og_title": "바이오메스턴 SMDR 데이 엔딩 슬립 스타트 700mg 30정 [4개] - 에누리 가격비교",
+  "og_site_name": "에누리 가격비교",
+  "og_type": "product",
+  "title": "바이오메스턴 SMDR 데이 엔딩 슬립 스타트 700mg 30정 [4개] - 에누리 가격비교",
+  "h1": "바이오메스턴 SMDR 데이 엔딩 슬립 스타트 700mg 30정 [4개]",
+  "jsonld": [
+   {
+    "name": "바이오메스턴 SMDR 데이 엔딩 슬립 스타트 700mg 30정 [4개]",
+    "brand": "노바렉스"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "노바렉스 바이오메스턴 SMDR 데이 엔딩 슬립 스타트 700mg 30정 [4개]",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "브랜디",
+  "category": "패션",
+  "url": "https://www.brandi.co.kr/products/183783098",
+  "host": "www.brandi.co.kr",
+  "og_title": "[색감../가을신상!]역대급 색감 보장,폴라포 브이넥 루즈핏 긴팔 니트 가디건 | 24,000원 | 브랜디",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "[색감../가을신상!]역대급 색감 보장,폴라포 브이넥 루즈핏 긴팔 니트 가디건",
+  "h1": "BRANDI",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "역대급 색감 보장,폴라포 브이넥 루즈핏 긴팔 니트 가디건",
+  "source": "og:title",
+  "via": "headless"
+ },
+ {
+  "name": "에이블리",
+  "category": "패션",
+  "url": "https://mobile.a-bly.com/goods/77038628",
+  "host": "mobile.a-bly.com",
+  "og_title": "(소매단추/기모) 딥브이 레이어드 일체형 긴팔티 [통통제작/빅사이즈] - 에이블리",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "(소매단추/기모) 딥브이 레이어드 일체형 긴팔티 [통통제작/빅사이즈] - 에이블리 스토어",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "(소매단추/기모) 딥브이 레이어드 일체형 긴팔티 [통통제작/빅사이즈]",
+  "source": "og:title",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "29CM",
+  "category": "패션",
+  "url": "https://www.29cm.co.kr/products/4354256",
+  "host": "www.29cm.co.kr",
+  "og_title": "바디필로우 Body Pillow - 모든 취향 곁에, 29CM",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "바디필로우 Body Pillow - 모든 취향 곁에, 29CM",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "바디필로우 Body Pillow",
+    "brand": "해피요기즈"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "해피요기즈 바디필로우 Body Pillow",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "룩핀",
+  "category": "패션",
+  "url": "https://www.lookpin.co.kr/products/3221737",
+  "host": "www.lookpin.co.kr",
+  "og_title": "룩핀",
+  "og_site_name": "룩핀",
+  "og_type": "website",
+  "title": "[M~5XL/기모버전추가] 와이드핏 스웨트 트레이닝 바지 팬츠 (DN0220) | 룩핀",
+  "h1": "[M~5XL/기모버전추가] 와이드핏 스웨트 트레이닝 바지 팬츠 (DN0220)",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "와이드핏 스웨트 트레이닝 바지 팬츠 (DN0220)",
+  "source": "<title>",
+  "via": "headless"
+ },
+ {
+  "name": "하이버",
+  "category": "패션",
+  "url": "https://www.hiver.co.kr/products/183296552",
+  "host": "www.hiver.co.kr",
+  "og_title": "파타고니아 라이트웨이트 신칠라 스냅-T 플리스 풀오버 | 101,200원 | 하이버",
+  "og_site_name": "하이버",
+  "og_type": "product",
+  "title": "파타고니아 라이트웨이트 신칠라 스냅-T 플리스 풀오버 | 하이버",
+  "h1": "파타고니아 라이트웨이트 신칠라 스냅-T 플리스 풀오버",
+  "jsonld": [
+   {
+    "name": "파타고니아 라이트웨이트 신칠라 스냅-T 플리스 풀오버",
+    "brand": "파타고니아"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "파타고니아 라이트웨이트 신칠라 스냅-T 플리스 풀오버",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "알리익스프레스",
+  "category": "종합",
+  "url": "https://ko.aliexpress.com/item/10000000214274.html",
+  "host": "ko.aliexpress.com",
+  "og_title": "ZRACE 1 X 12s 체인링, 28/30/32/34/36T 7075AL 비커스 경도 21, 오프셋 6mm, GXP 다이렉트 마운트 크랭크용, 호환 가능 이글 - AliExpress 18",
+  "og_site_name": "aliexpress.",
+  "og_type": "product",
+  "title": "",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "ZRACE 1 X 12s 체인링, 28/30/32/34/36T 7075AL 비커스 경도 21, 오프셋",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "다나와",
+  "category": "종합",
+  "url": "https://dpg.danawa.com/bbs/view?boardSeq=28&listSeq=6077489",
+  "host": "dpg.danawa.com",
+  "og_title": "강력한 쿨링성능 앱코 UF40 에어로직 파노라믹 뷰 VGA쿨링 ARGB 케이스 : 다나와 DPG는 내맘을 디피지",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "강력한 쿨링성능 앱코 UF40 에어로직 파노라믹 뷰 VGA쿨링 ARGB 케이스 : 다나와 DPG는 내맘을 디피지",
+  "h1": "비교하고 잘 사는, 다나와 : 가격비교 사이트",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "강력한 쿨링성능 앱코 UF40 에어로직 파노라믹 뷰 VGA쿨링 ARGB 케이스",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "하프클럽",
+  "category": "패션",
+  "url": "https://www.halfclub.com/product/404169348",
+  "host": "www.halfclub.com",
+  "og_title": "[Thursday Island] 후드 아웃포켓 무스탕(T238MLT302W)",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "[Thursday Island] 후드 아웃포켓 무스탕(T238MLT302W)",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[Thursday Island] 후드 아웃포켓 무스탕(T238MLT302W)",
+  "source": "og:title",
+  "via": "headless-v2"
+ },
+ {
+  "name": "롯데면세점",
+  "category": "종합",
+  "url": "https://kor.lottedfs.com/kr/product/productDetail?prdNo=20000729163",
+  "host": "kor.lottedfs.com",
+  "og_title": "[에스티로더] Advanced Night Repair 어드밴스드 나이트 리페어 싱크로나이즈드 멀티-리커버리 콤플렉스 듀오 100ml x 2",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "롯데면세점",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[에스티로더] Advanced Night Repair 어드밴스드 나이트 리페어 싱크로나이즈드 멀티-리커버리",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "보리보리",
+  "category": "패션",
+  "url": "https://m.boribori.co.kr/item/34417",
+  "host": "m.boribori.co.kr",
+  "og_title": "보리보리 상하복",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "보리보리 상하복",
+  "h1": "베이비패션",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "보리보리 상하복",
+  "source": "og:title",
+  "via": "headless-v2"
+ },
+ {
+  "name": "W컨셉",
+  "category": "패션",
+  "url": "https://www.wconcept.co.kr/Product/300001377",
+  "host": "www.wconcept.co.kr",
+  "og_title": "[W CONCEPT]",
+  "og_site_name": "WCONCEPT",
+  "og_type": "website",
+  "title": "[덴티스테]덴티스테 내추럴 오랄린스 700ml",
+  "h1": "W CONCEPT",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[W CONCEPT]",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "패션플러스",
+  "category": "패션",
+  "url": "https://www.fashionplus.co.kr/goods/detail/381573338",
+  "host": "www.fashionplus.co.kr",
+  "og_title": "[비노출특가][빈트릴] 경량패딩+베스트세트  유니 4컬러 택1 - 패션플러스",
+  "og_site_name": "가장 가까운 아울렛, 패션플러스",
+  "og_type": null,
+  "title": "[비노출특가][빈트릴] 경량패딩+베스트세트 유니 4컬러 택1 - 패션플러스",
+  "h1": "패션플러스",
+  "jsonld": [
+   {
+    "name": "[비노출특가][빈트릴] 경량패딩+베스트세트 유니 4컬러 택1",
+    "brand": "빈트릴"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "[빈트릴] 경량패딩+베스트세트 유니 4컬러 택1",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "지그재그",
+  "category": "패션",
+  "url": "https://zigzag.kr/catalog/products/100000102",
+  "host": "zigzag.kr",
+  "og_title": "오프위 [당일발송] 💙뉴오프위 반팔티 - 여름 데일리 여행 나들이 흠뻑쇼상의 흠뻑쇼 파란티 파란색",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "오프위 [당일발송] 💙뉴오프위 반팔티 - 여름 데일리 여행 나들이 흠뻑쇼상의 흠뻑쇼 파란티 파란색",
+  "h1": "[당일발송] 💙뉴오프위 반팔티 - 여름 데일리 여행 나들이 흠뻑쇼상의 흠뻑쇼 파란티 파란색",
+  "jsonld": [
+   {
+    "name": "오프위 [당일발송] 💙뉴오프위 반팔티 - 여름 데일리 여행 나들이 흠뻑쇼상의 흠뻑쇼 파란티 파란색",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "오프위 뉴오프위 반팔티 - 여름 데일리 여행 나들이 흠뻑쇼상의 흠뻑쇼 파란티 파란색",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "크림",
+  "category": "패션",
+  "url": "https://kream.co.kr/products/1169848",
+  "host": "kream.co.kr",
+  "og_title": "2026 Topps Mint Disney Hobby Box",
+  "og_site_name": "KREAM",
+  "og_type": "product",
+  "title": "2026 탑스 민트 디즈니 하비 박스 정품 안심 거래 | KREAM",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "2026 Topps Mint Disney Hobby Box",
+    "brand": "Topps"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "2026 Topps Mint Disney Hobby Box",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "S.I.빌리지",
+  "category": "패션",
+  "url": "https://www.shinsegaev.com/goods/initDetailGoods.siv?goods_no=2609047726",
+  "host": "www.shinsegaev.com",
+  "og_title": "[STUDIO TOMBOY]",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "STUDIO TOMBOY(스튜디오 톰보이) [신세계V 단독] 리버서블 신세틱 무스탕 베스트 | 신세계V",
+  "h1": "[신세계V 단독] 리버서블 신세틱 무스탕 베스트",
+  "jsonld": [
+   {
+    "name": "[신세계V 단독] 리버서블 신세틱 무스탕 베스트",
+    "brand": "STUDIO TOMBOY (스튜디오 톰보이)"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "STUDIO TOMBOY (스튜디오 톰보이) 리버서블 신세틱 무스탕 베스트",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "퀸잇",
+  "category": "패션",
+  "url": "https://web.queenit.kr/product/00007b53ff9cd053cc36ac7a11615a54",
+  "host": "web.queenit.kr",
+  "og_title": "[중고명품] FF 몬트레조 버킷백 8BT298 5493",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "퀸잇 - 펜디 [중고명품] FF 몬트레조 버킷백 8BT298 5493",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "[중고명품] FF 몬트레조 버킷백 8BT298 5493",
+    "brand": "펜디"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "펜디 FF 몬트레조 버킷백 8BT298 5493",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "아이디룩몰",
+  "category": "패션",
+  "url": "https://www.idlookmall.com/product/productDetail?pcode=P000131992",
+  "host": "www.idlookmall.com",
+  "og_title": "플라워 후드 토글 패딩 베스트",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "플라워 후드 토글 패딩 베스트",
+  "h1": "IDLOOKMALL",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "플라워 후드 토글 패딩 베스트",
+  "source": "og:title",
+  "via": "headless-v2"
+ },
+ {
+  "name": "더한섬닷컴",
+  "category": "패션",
+  "url": "https://www.thehandsome.com/ko/PM/productDetail/G26070028546?itmNo=001",
+  "host": "www.thehandsome.com",
+  "og_title": "[ThalaSpa] 딸라슬리밍 배쓰 1L",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "더한섬닷컴 | THE HANDSOME.COM",
+  "h1": "검색",
+  "jsonld": [
+   {
+    "name": "딸라슬리밍 배쓰 1L",
+    "brand": "ThalaSpa"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "ThalaSpa 딸라슬리밍 배쓰 1L",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "코오롱몰",
+  "category": "패션",
+  "url": "https://www.kolonmall.com/Product/K1788245525928040IV01",
+  "host": "www.kolonmall.com",
+  "og_title": "Bermuda Flare Pants - Ivory",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[토콜] Bermuda Flare Pants - Ivory",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "Bermuda Flare Pants - Ivory",
+    "brand": "Tocoll"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "Tocoll [토콜] Bermuda Flare Pants",
+  "source": "jsonld→korean(og/h1)",
+  "via": "http"
+ },
+ {
+  "name": "LF몰",
+  "category": "패션",
+  "url": "https://www.lfmall.co.kr/app/product/0CSW8D110IV/%EC%95%B3%EC%BD%94%EB%84%88-%EC%84%B8%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%B3%B4%EB%A6%AC-%EB%AA%A8-%ED%98%BC%EB%B0%A9-%ED%8F%B4%EB%9D%BC%EB%84%A5-%EC%86%94%EB%A6%AC%EB%93%9C-%EC%8A%A4%EC%9B%A8%ED%84%B0-%EC%85%8B%EC%97%85",
+  "host": "www.lfmall.co.kr",
+  "og_title": "앳코너 세트, 아이보리 모 혼방 폴라넥 솔리드 스웨터 셋업",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "앳코너 세트, 아이보리 모 혼방 폴라넥 솔리드 스웨터 셋업",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "앳코너 세트, 아이보리 모 혼방 폴라넥 솔리드 스웨터 셋업",
+    "brand": "앳코너 세트"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "앳코너 세트, 아이보리 모 혼방 폴라넥 솔리드 스웨터 셋업",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "이랜드몰",
+  "category": "패션",
+  "url": "https://www.elandmall.co.kr/i/item?itemNo=2611640965",
+  "host": "www.elandmall.co.kr",
+  "og_title": "[한파대비 아우터 특가] 패딩/플리스 외 최대 80% 할인- 이랜드몰",
+  "og_site_name": "이랜드몰",
+  "og_type": "website",
+  "title": "[한파대비 아우터 특가] 패딩/플리스 외 최대 80% 할인- 이랜드몰",
+  "h1": "이랜드몰",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "패딩/플리스 외 최대 80% 할인",
+  "source": "og:title (JS 구현에서 갱신)",
+  "via": "http"
+ },
+ {
+  "name": "임블리",
+  "category": "패션",
+  "url": "https://imvely.com/product/detail.html?product_no=22086",
+  "host": "imvely.com",
+  "og_title": "임블리",
+  "og_site_name": "임블리",
+  "og_type": "website",
+  "title": "LOVE ME MORE :: 임블리-imvely",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "블리블리 바쿠치올 앰플 100ml",
+    "brand": "임블리"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "임블리 블리블리 바쿠치올 앰플 100ml",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "핫핑",
+  "category": "패션",
+  "url": "https://hotping.co.kr/product/%ED%93%A8%EC%96%B4%EC%9D%B4%EC%A7%80-%EC%8B%9C%ED%81%AC%EB%A6%BF-%EB%A0%88%EC%9D%B4%EC%8A%A4%EB%B0%94%EB%94%94%EC%88%98%ED%8A%B86699-%EB%B3%B4%EC%A0%95%EC%86%8D%EC%98%B7-%EA%B8%B0%EB%8A%A5%EC%84%B1%EC%86%8D%EC%98%B7-%EC%88%98%EC%98%81%EB%B3%B5%ED%98%95-%EB%A0%88%EC%9D%B4%EC%8A%A4/5379/",
+  "host": "hotping.co.kr",
+  "og_title": "[퓨어이지] 시크릿 레이스바디수트(66~99) (보정속옷-기능성속옷-수영복형-레이스바디수트-레이스보정속옷-볼륨업-이너웨어-빅사이즈보정속옷)",
+  "og_site_name": "핫핑",
+  "og_type": "product",
+  "title": "시크릿 레이스바디수트(66~99)-♥핫핑♥",
+  "h1": "게시글 신고하기",
+  "jsonld": [
+   {
+    "name": "[퓨어이지] 시크릿 레이스바디수트 (66~99) (보정속옷-기능성속옷-수영복형-레이스바디수트-레이스보정속옷-볼륨업-이너웨어-빅사이즈보정속옷) 민트(mint)-2XL",
+    "brand": "핫핑"
+   },
+   {
+    "name": "[퓨어이지] 시크릿 레이스바디수트 (66~99) (보정속옷-기능성속옷-수영복형-레이스바디수트-레이스보정속옷-볼륨업-이너웨어-빅사이즈보정속옷) 민트(mint)-XL",
+    "brand": "핫핑"
+   },
+   {
+    "name": "[퓨어이지] 시크릿 레이스바디수트 (66~99) (보정속옷-기능성속옷-수영복형-레이스바디수트-레이스보정속옷-볼륨업-이너웨어-빅사이즈보정속옷) 스킨(skin)-2XL",
+    "brand": "핫핑"
+   },
+   {
+    "name": "[퓨어이지] 시크릿 레이스바디수트 (66~99) (보정속옷-기능성속옷-수영복형-레이스바디수트-레이스보정속옷-볼륨업-이너웨어-빅사이즈보정속옷) 스킨(skin)-XL",
+    "brand": "핫핑"
+   },
+   {
+    "name": "[퓨어이지] 시크릿 레이스바디수트 (66~99) (보정속옷-기능성속옷-수영복형-레이스바디수트-레이스보정속옷-볼륨업-이너웨어-빅사이즈보정속옷) 블랙(black)-2XL",
+    "brand": "핫핑"
+   },
+   {
+    "name": "[퓨어이지] 시크릿 레이스바디수트 (66~99) (보정속옷-기능성속옷-수영복형-레이스바디수트-레이스보정속옷-볼륨업-이너웨어-빅사이즈보정속옷) 블랙(black)-XL",
+    "brand": "핫핑"
+   }
+  ],
+  "jsonld_total": 6,
+  "expected_query": "핫핑 [퓨어이지] 시크릿 레이스바디수트 (66~99) 민트(mint)",
+  "source": "jsonld-pick(by og/title overlap)",
+  "via": "http"
+ },
+ {
+  "name": "오케이몰",
+  "category": "패션",
+  "url": "https://www.rexmonde.com/products/view?no=19162",
+  "host": "www.rexmonde.com",
+  "og_title": "[Black Diamond]밤쉘터 텐트 (BD810010)  | 렉스몬드",
+  "og_site_name": "렉스몬드",
+  "og_type": "website",
+  "title": "[Black Diamond]밤쉘터 텐트 (BD810010) | 렉스몬드",
+  "h1": "포토리뷰",
+  "jsonld": [
+   {
+    "name": "[Black Diamond]밤쉘터 텐트 (BD810010)",
+    "brand": "블랙다이아몬드(Black Diamond)"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "블랙다이아몬드(Black Diamond) [Black Diamond]밤쉘터 텐트 (BD810010)",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "머스트잇",
+  "category": "패션",
+  "url": "https://m.web.mustit.co.kr/v2/m/product/product_detail/84997463?click=HOME_004_Product_deal008_609",
+  "host": "m.web.mustit.co.kr",
+  "og_title": "[국내당일퀵/최저가] 26FW 몽클레어 마야 MAYA 패딩 블랙  L2091 1A53600 68950 999 | 머스트잇",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "[국내당일퀵/최저가] 26FW 몽클레어 마야 MAYA 패딩 블랙 L2091 1A53600 68950 999 | 머스트잇",
+  "h1": "[국내당일퀵/최저가] 26FW 몽클레어 마야 MAYA 패딩 블랙 L2091 1A53600 68950 999",
+  "jsonld": [
+   {
+    "name": "[국내당일퀵/최저가] 26FW 몽클레어 마야 MAYA 패딩 블랙 L2091 1A53600 68950 999",
+    "brand": "몽클레르"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "몽클레르 26FW 몽클레어 마야 MAYA 패딩 블랙 L2091 1A53600 68950 999",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "츄",
+  "category": "패션",
+  "url": "https://www.chuu.co.kr/product/detail.html?product_no=43549",
+  "host": "www.chuu.co.kr",
+  "og_title": "CHUU츄 레이스 패치 레터 자수 도트 숏 자켓 (라이트 멜란지 그레이) by 츄(chuu)",
+  "og_site_name": "www.chuu.co.kr",
+  "og_type": "product",
+  "title": "츄(chuu) | CHUU츄 레이스 패치 레터 자수 도트 숏 자켓 (라이트 멜란지 그레이)",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "CHUU츄 레이스 패치 레터 자수 도트 숏 자켓 (라이트 멜란지 그레이)",
+    "brand": "츄(chuu)"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "츄(chuu) CHUU츄 레이스 패치 레터 자수 도트 숏 자켓 (라이트 멜란지 그레이)",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "육육걸즈",
+  "category": "패션",
+  "url": "https://66girls.co.kr/product/1/165027/",
+  "host": "66girls.co.kr",
+  "og_title": "워싱워크포켓야상패딩JP (누빔,한겨울 쭉)",
+  "og_site_name": "육육걸즈",
+  "og_type": "product",
+  "title": "누빔포켓야상패딩JP",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "워싱워크포켓야상패딩JP (누빔,한겨울 쭉) 퍼플-FREE",
+    "brand": "육육걸즈"
+   },
+   {
+    "name": "워싱워크포켓야상패딩JP (누빔,한겨울 쭉) 카키-FREE",
+    "brand": "육육걸즈"
+   }
+  ],
+  "jsonld_total": 2,
+  "expected_query": "육육걸즈 워싱워크포켓야상패딩JP",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "모코블링",
+  "category": "패션",
+  "url": "https://mocobling.com/shop/shopdetail.html?branduid=64523",
+  "host": "mocobling.com",
+  "og_title": "모코블링 | 🏷️단독진행 [겨울신상니트❄️] 에코 앙고라 브이넥니트 (앙고라니트/브이넥니트/연말룩/하객룩)",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "여성 겨울 앙고라 브이넥 루즈핏 긴팔 니트 스웨터",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "🏷️단독진행 [겨울신상니트❄️] 에코 앙고라 브이넥니트 (앙고라니트/브이넥니트/연말룩/하객룩)",
+    "brand": "모코블링"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "모코블링 단독진행 에코 앙고라 브이넥니트",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "리리앤코",
+  "category": "패션",
+  "url": "https://ririnco.com/product/detail.html?product_no=15616",
+  "host": "ririnco.com",
+  "og_title": "[44-120]  리리집콕 홈웨어 모음전( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 리리앤코,여성의류,빅사이즈,기획전,세일,빅세일,커플룩,시밀러룩,잠옷,파자마,기모,트레이닝,홈웨어,홈웨어기획전,홈웨어이벤트,모음전,빅사이즈잠옷,빅사이즈트레이닝,후드,맨투맨,남여공용,남성의류",
+  "og_site_name": "리리앤코 ♥ RIRInCO",
+  "og_type": "product",
+  "title": "[44-120] 리리집콕 홈웨어 모음전( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) | 리리앤코",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 16. 플리데틴 블루-2",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 16. 플리데틴 블루-1",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 15. 레언즈닐 그린-2",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 15. 레언즈닐 그린-1",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 14. 체브리브 블랙-2",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 14. 체브리브 블랙-1",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 14. 체브리브 베이지-2",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 14. 체브리브 베이지-1",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 13. 데쥬디아 블루-2",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 13. 데쥬디아 블루-1",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 스카이블루-L",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 스카이블루-F",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 퍼플-L",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 퍼플-F",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 블랙-L",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 블랙-F",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 레드-L",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 12. 블러포 레드-F",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 11. 포넨브디 세트 블랙-4",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 11. 포넨브디 세트 블랙-3",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 11. 포넨브디 세트 블랙-2",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 11. 포넨브디 세트 블랙-1",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 10. 클리프아 블랙-F",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 10. 클리프아 오트밀-F",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 10. 클리프아 그레이-F",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 9. 쥬프퐁 하의 소라-4",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 9. 쥬프퐁 하의 소라-3",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 9. 쥬프퐁 하의 소라-2",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 9. 쥬프퐁 하의 소라-1",
+    "brand": "리리앤코"
+   },
+   {
+    "name": "[44-120] 리리집콕 홈웨어 모음전 ( 홈웨어모음전/잠옷모음전/츄리닝/트레이닝세트/홈웨어/트레이닝팬츠/와이드팬츠/밴딩/편안한/집콕룩/파자마/잠옷/편한/신축성/부드러운/포근한/반바지/숏팬츠) 9. 쥬프퐁 하의 라이트핑크-4",
+    "brand": "리리앤코"
+   }
+  ],
+  "jsonld_total": 201,
+  "expected_query": "리리앤코 [44-120] 리리집콕 홈웨어 모음전 16. 플리데틴 블루-2",
+  "source": "jsonld-pick(by og/title overlap)",
+  "via": "http"
+ },
+ {
+  "name": "아뜨랑스",
+  "category": "패션",
+  "url": "https://attrangs.co.kr/shop/view.php?index_no=38557",
+  "host": "attrangs.co.kr",
+  "og_title": "(국내제작)(MADE/3기장/S~XL/탑셀러!) 3기장 H라인 베이직 스커트",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "아뜨랑스 - (국내제작)(MADE/3기장/S~XL/탑셀러!) 3기장 H라인 베이직 스커트",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "(국내제작)(MADE/3기장/S~XL/탑셀러!) 3기장 H라인 베이직 스커트",
+    "brand": "아뜨랑스"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "아뜨랑스 (국내제작) 3기장 H라인 베이직 스커트",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "핑크시슬리",
+  "category": "패션",
+  "url": "https://pinksisly.com/shop/shopdetail.html?branduid=145028&gf_ref=Yz1xUEhPUU4=",
+  "host": "pinksisly.com",
+  "og_title": "24시간 편하고 예쁘게, 핑크시슬리",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[[코디SET]포근해! 커밍 기모 스커트세트 ]",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "[코디SET]포근해! 커밍 기모 스커트세트",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "포근해! 커밍 기모 스커트세트",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "슈가펀",
+  "category": "패션",
+  "url": "https://sugarfun.co.kr/product/detail.html?product_no=25607&cate_no=1&display_group=3",
+  "host": "sugarfun.co.kr",
+  "og_title": "우트 내추럴 코튼원피스",
+  "og_site_name": "슈가펀",
+  "og_type": "product",
+  "title": "달콤달콤 데일리 sugarfun",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "우트 내추럴 코튼원피스 베이지-FREE",
+    "brand": "슈가펀"
+   },
+   {
+    "name": "우트 내추럴 코튼원피스 브라운-FREE",
+    "brand": "슈가펀"
+   },
+   {
+    "name": "우트 내추럴 코튼원피스 내추럴-FREE",
+    "brand": "슈가펀"
+   },
+   {
+    "name": "우트 내추럴 코튼원피스 네이비-FREE",
+    "brand": "슈가펀"
+   }
+  ],
+  "jsonld_total": 4,
+  "expected_query": "슈가펀 우트 내추럴 코튼원피스 내추럴",
+  "source": "jsonld-pick(by og/title overlap)",
+  "via": "http"
+ },
+ {
+  "name": "베니토",
+  "category": "패션",
+  "url": "https://benito.co.kr/product/project3.html?cate_no=2055",
+  "host": "benito.co.kr",
+  "og_title": "기획전 - 23 WINTER COLLECTION",
+  "og_site_name": "(주)아카이브브랜즈그룹",
+  "og_type": "product.group",
+  "title": "기획전23 WINTER COLLECTION | 우아한 그녀, 감성 오피스룩 베니토",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "23 WINTER COLLECTION",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "메이빈스",
+  "category": "패션",
+  "url": "https://maybins.com/product/detail.html?product_no=30333&cate_no=81&display_group=1",
+  "host": "maybins.com",
+  "og_title": "[2만켤레돌파/무료배송/3,5,8cm/MADE]케이던 롱 부츠(+스웨이드ver.)",
+  "og_site_name": "메이빈스",
+  "og_type": "product",
+  "title": "메이빈스! 감성 데일리룩, maybins",
+  "h1": "{$d1-data}",
+  "jsonld": [
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./8cm)-250",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./8cm)-245",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./8cm)-240",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./8cm)-235",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./8cm)-230",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./8cm)-225",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./5cm)-250",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./5cm)-245",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./5cm)-240",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./5cm)-235",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./5cm)-230",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./5cm)-225",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./3cm)-250",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./3cm)-245",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./3cm)-240",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./3cm)-235",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./3cm)-230",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./3cm)-225",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./8cm)-250",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./8cm)-245",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./8cm)-240",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./8cm)-235",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./8cm)-230",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./8cm)-225",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./5cm)-250",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./5cm)-245",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./5cm)-240",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./5cm)-235",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./5cm)-230",
+    "brand": "MB롱부츠(제작)"
+   },
+   {
+    "name": "[2만켤레돌파/무료배송/3,5,8cm/MADE] 케이던 롱 부츠(+스웨이드ver.) 초코브라운(스웨이드ver./5cm)-225",
+    "brand": "MB롱부츠(제작)"
+   }
+  ],
+  "jsonld_total": 78,
+  "expected_query": "MB롱부츠(제작) 케이던 롱 부츠(+스웨이드ver.) 빈티지블랙(스웨이드ver./8cm)",
+  "source": "jsonld-variants(common prefix) (JS 구현에서 갱신)",
+  "via": "http"
+ },
+ {
+  "name": "커먼유니크",
+  "category": "패션",
+  "url": "https://common-unique.com/product/detail.html?product_no=36067&cate_no=524&display_group=1",
+  "host": "common-unique.com",
+  "og_title": "킨프 빅 펜던트 롱 네크리스 (사계절/가을/간절기/겨울/목걸이/레더/실버/시크/데일리룩/일상룩)",
+  "og_site_name": "커먼유니크",
+  "og_type": "product",
+  "title": "한국어 쇼핑몰 | 3C 빅 펜던트 롱 네크리스",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "킨프 빅 펜던트 롱 네크리스 (사계절/가을/간절기/겨울/목걸이/레더/실버/시크/데일리룩/일상룩) BLACK",
+    "brand": "커먼유니크"
+   },
+   {
+    "name": "킨프 빅 펜던트 롱 네크리스 (사계절/가을/간절기/겨울/목걸이/레더/실버/시크/데일리룩/일상룩) BROWN",
+    "brand": "커먼유니크"
+   },
+   {
+    "name": "킨프 빅 펜던트 롱 네크리스 (사계절/가을/간절기/겨울/목걸이/레더/실버/시크/데일리룩/일상룩) SILVER",
+    "brand": "커먼유니크"
+   }
+  ],
+  "jsonld_total": 3,
+  "expected_query": "커먼유니크 킨프 빅 펜던트 롱 네크리스 BLACK",
+  "source": "jsonld-pick(by og/title overlap)",
+  "via": "http"
+ },
+ {
+  "name": "인사일런스",
+  "category": "패션",
+  "url": "https://insilence.co.kr/product/detail.html?product_no=8263&cate_no=337&display_group=1",
+  "host": "insilence.co.kr",
+  "og_title": "클래식 다운 자켓 BROWN",
+  "og_site_name": "인사일런스",
+  "og_type": "product",
+  "title": "인사일런스",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "클래식 다운 자켓 BROWN L",
+    "brand": "INSILENCE"
+   },
+   {
+    "name": "클래식 다운 자켓 BROWN M",
+    "brand": "INSILENCE"
+   },
+   {
+    "name": "클래식 다운 자켓 BROWN S",
+    "brand": "INSILENCE"
+   }
+  ],
+  "jsonld_total": 3,
+  "expected_query": "INSILENCE 클래식 다운 자켓",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "앤더슨벨",
+  "category": "패션",
+  "url": "https://anderssonbell.com/product/linycius-jersey-ls-atb1027mblack/7967/",
+  "host": "anderssonbell.com",
+  "og_title": "앤더슨벨",
+  "og_site_name": "anderssonbell",
+  "og_type": "website",
+  "title": "Andersson Bell | 앤더슨벨",
+  "h1": "LINYCIUS JERSEY L/S atb1027m(BLACK)",
+  "jsonld": [
+   {
+    "name": "LINYCIUS JERSEY L/S atb1027m(BLACK) XL",
+    "brand": "anderssonbell"
+   },
+   {
+    "name": "LINYCIUS JERSEY L/S atb1027m(BLACK) L",
+    "brand": "anderssonbell"
+   },
+   {
+    "name": "LINYCIUS JERSEY L/S atb1027m(BLACK) M",
+    "brand": "anderssonbell"
+   },
+   {
+    "name": "LINYCIUS JERSEY L/S atb1027m(BLACK) S",
+    "brand": "anderssonbell"
+   }
+  ],
+  "jsonld_total": 4,
+  "expected_query": "anderssonbell LINYCIUS JERSEY L/S",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "아크메드라비",
+  "category": "패션",
+  "url": "https://acmedelavie.com/product/crew_detail.html?product_no=11137&cate_no=222&display_group=1",
+  "host": "acmedelavie.com",
+  "og_title": "ADLV CREW 2675 (PIGMENT FADED BASIC LOGO NAPPING HOODIE ZIP UP)",
+  "og_site_name": "아크메드라비",
+  "og_type": "product",
+  "title": "한국어 쇼핑몰 | ADLV CREW 2671 덕다운 크루넥 자켓",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "ADLV CREW 2675 (PIGMENT FADED BASIC LOGO NAPPING HOODIE ZIP UP)",
+    "brand": "아크메드라비"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "아크메드라비 ADLV CREW 2671 덕다운 크루넥 자켓",
+  "source": "jsonld→korean(og/h1)",
+  "via": "http"
+ },
+ {
+  "name": "마르디메크르디",
+  "category": "패션",
+  "url": "https://mardimercredi.com/product/project.html?cate_no=2609&utm_source=cafe24&utm_medium=menu-mini&utm_campaign=banner1",
+  "host": "mardimercredi.com",
+  "og_title": "MARDI MERCREDI | 마르디 메크르디",
+  "og_site_name": "MARDI MERCREDI | 마르디 메크르디",
+  "og_type": "product.group",
+  "title": "L'AUTOMNE DE NOTRE MUSE - MARDI MERCREDI",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "MARDI MERCREDI",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "로우로우",
+  "category": "패션",
+  "url": "https://rawrow.com/products/alu-convertible-ep-2-42l-16",
+  "host": "rawrow.com",
+  "og_title": "ALU CONVERTIBLE ep.2 42L / 16\"",
+  "og_site_name": "RAWROW",
+  "og_type": "product",
+  "title": "ALU CONVERTIBLE ep.2 42L / 16\"",
+  "h1": "ALU CONVERTIBLE ep.2 42L / 16\"",
+  "jsonld": [
+   {
+    "name": "SPACE GRAY",
+    "brand": null
+   },
+   {
+    "name": "SILVER",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 2,
+  "expected_query": "ALU CONVERTIBLE ep.2 42L / 16\"",
+  "source": "og:title",
+  "via": "headless"
+ },
+ {
+  "name": "고고싱",
+  "category": "패션",
+  "url": "https://www.ggsing.com/product/detail.html?product_no=59353",
+  "host": "www.ggsing.com",
+  "og_title": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩)",
+  "og_site_name": "고고싱",
+  "og_type": "product",
+  "title": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) - 고고싱",
+  "h1": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩)",
+  "jsonld": [
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.화이트-ver.165-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.화이트-ver.165-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.화이트-ver.160-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.화이트-ver.160-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.화이트-ver.155-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.화이트-ver.155-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.핑크베이지-ver.165-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.핑크베이지-ver.160-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.핑크베이지-ver.155-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.핑크베이지-ver.155-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.핑크-ver.165-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.핑크-ver.160-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.핑크-ver.155-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.페일블루-ver.165-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.페일블루-ver.165-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.페일블루-ver.160-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.페일블루-ver.160-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.페일블루-ver.155-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.카키베이지-ver.165-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.카키베이지-ver.165-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.카키베이지-ver.160-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.카키베이지-ver.160-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.카키베이지-ver.155-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.차콜그레이-ver.165-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.차콜그레이-ver.165-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.차콜그레이-ver.160-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.차콜그레이-ver.160-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.차콜그레이-ver.155-XL",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.차콜그레이-ver.155-FREE",
+    "brand": "고고싱"
+   },
+   {
+    "name": "[바스락와샤카고6만3천장] 썸머 투웨이 밴딩 와샤 카고팬츠 (여름긴바지,나일론팬츠,트레이닝팬츠,장마룩) new.블랙-ver.165-XL",
+    "brand": "고고싱"
+   }
+  ],
+  "jsonld_total": 82,
+  "expected_query": "고고싱 썸머 투웨이 밴딩 와샤 카고팬츠",
+  "source": "jsonld-pick(by og/title overlap) (JS 구현에서 갱신)",
+  "via": "http"
+ },
+ {
+  "name": "널디",
+  "category": "패션",
+  "url": "https://whoisnerdy.com/product/detail.html?product_no=17408&cate_no=1&display_group=2",
+  "host": "whoisnerdy.com",
+  "og_title": "리본 반팔 티셔츠 화이트",
+  "og_site_name": "엔디와이",
+  "og_type": "product",
+  "title": "엔디와이리본 반팔 티셔츠 화이트",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "리본 반팔 티셔츠 화이트",
+    "brand": "엔디와이"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "엔디와이 리본 반팔 티셔츠 화이트",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "키르시",
+  "category": "패션",
+  "url": "https://kirsh.co.kr/product/detail.html?product_no=11537&cate_no=1&display_group=16",
+  "host": "kirsh.co.kr",
+  "og_title": "라이트 다운 후드 자켓 [라임]",
+  "og_site_name": "kirsh",
+  "og_type": "product",
+  "title": "키르시 | 라이트 다운 후드 자켓 라임",
+  "h1": "게시글 신고하기",
+  "jsonld": [
+   {
+    "name": "라이트 다운 후드 자켓 [라임] SIZE=S",
+    "brand": "kirsh"
+   },
+   {
+    "name": "라이트 다운 후드 자켓 [라임] SIZE=M",
+    "brand": "kirsh"
+   }
+  ],
+  "jsonld_total": 2,
+  "expected_query": "kirsh 라이트 다운 후드 자켓 [라임]",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "뉴발란스",
+  "category": "패션",
+  "url": "https://www.nbkorea.com/product/productDetail.action?styleCode=NBNQG41903&colCode=19",
+  "host": "www.nbkorea.com",
+  "og_title": "UNI 플라잉77 슈퍼라이트 스텐드넥 경량 패딩 자켓",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "뉴발란스 공식 온라인스토어",
+  "h1": "New Balance",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "UNI 플라잉77 슈퍼라이트 스텐드넥 경량 패딩 자켓",
+  "source": "og:title",
+  "via": "headless"
+ },
+ {
+  "name": "마하그리드",
+  "category": "패션",
+  "url": "https://mahagrid.com/product/detail.html?product_no=3909&cate_no=158&display_group=1",
+  "host": "mahagrid.com",
+  "og_title": "CORP TEE[BLACK]",
+  "og_site_name": "mahagrid",
+  "og_type": "product",
+  "title": "MAHAGRID",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "CORP TEE[BLACK] 블랙-XL",
+    "brand": "mahagrid"
+   },
+   {
+    "name": "CORP TEE[BLACK] 블랙-L",
+    "brand": "mahagrid"
+   },
+   {
+    "name": "CORP TEE[BLACK] 블랙-M",
+    "brand": "mahagrid"
+   },
+   {
+    "name": "CORP TEE[BLACK] 블랙-S",
+    "brand": "mahagrid"
+   }
+  ],
+  "jsonld_total": 4,
+  "expected_query": "mahagrid CORP TEE[BLACK]",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "스파오",
+  "category": "패션",
+  "url": "https://www.spao.com/i/item?itemNo=2607013428&lowerVendNo=LV26000002",
+  "host": "www.spao.com",
+  "og_title": "[씬라이트] 후드 재킷_SPJPG4TC24 | 스파오닷컴 공식 스토어",
+  "og_site_name": "스파오닷컴 공식 스토어",
+  "og_type": "website",
+  "title": "[씬라이트] 후드 재킷_SPJPG4TC24 | 스파오닷컴 공식 스토어",
+  "h1": "SPAO",
+  "jsonld": [
+   {
+    "name": "[씬라이트] 후드 재킷_SPJPG4TC24",
+    "brand": "스파오"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "스파오 [씬라이트] 후드 재킷_SPJPG4TC24",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "데카트론",
+  "category": "패션",
+  "url": "https://www.decathlon.co.kr/p/%EB%A0%88%EC%9D%B4%EC%A0%80-%EB%84%9B%EC%B8%A0-%ED%82%A4%EB%84%A4%ED%8B%B0%EC%BD%94%EC%96%B4-%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-lazer-8809521.html",
+  "host": "www.decathlon.co.kr",
+  "og_title": "레이저 넛츠 키네티코어 스페이스",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "레이저 넛츠 키네티코어 스페이스",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "레이저 넛츠 키네티코어 스페이스",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "폴햄",
+  "category": "패션",
+  "url": "https://www.goodwearmall.com:443/mgz/42413/view",
+  "host": "www.goodwearmall.com:443",
+  "og_title": "겨울의 인상을 완성하는, 앤드지 코트  매거진 | 굿 셀렉션, 굿 서비스 굿웨어몰",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "겨울의 인상을 완성하는, 앤드지 코트 매거진 | 굿 셀렉션, 굿 서비스 굿웨어몰",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "겨울의 인상을 완성하는, 앤드지 코트 매거진",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "네파",
+  "category": "패션",
+  "url": "https://www.nplus.co.kr/product/view.asp?pno=45885",
+  "host": "www.nplus.co.kr",
+  "og_title": "WINTER CHECK L/S HOODIE SHIRTS_UNI | 네파 공식몰 Nplus",
+  "og_site_name": "NEPA",
+  "og_type": "website",
+  "title": "공용 윈터 롱슬리브 체크 후디 셔츠 - 네파 공식몰 Nplus",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "공용 윈터 롱슬리브 체크 후디 셔츠",
+    "brand": "NEPA"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "NEPA 공용 윈터 롱슬리브 체크 후디 셔츠",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "미쏘",
+  "category": "패션",
+  "url": "https://mixxo.com/product/%EB%B2%A0%EC%9D%B4%EC%A7%81-%EC%8A%AC%EB%A6%BC%ED%95%8F-%EC%85%94%EC%B8%A0miwywg110a/11355/",
+  "host": "mixxo.com",
+  "og_title": "미쏘(MIXXO) 공식 온라인 스토어",
+  "og_site_name": "미쏘",
+  "og_type": "website",
+  "title": "베이직 슬림핏 셔츠_MIWYWG110A - 미쏘",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (99)MIX-L(100)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (99)MIX-M(095)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (99)MIX-S(090)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (59)NAVY-L(100)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (59)NAVY-M(095)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (59)NAVY-S(090)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (50)BLUE-L(100)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (50)BLUE-M(095)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (50)BLUE-S(090)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (10)WHITE-L(100)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (10)WHITE-M(095)",
+    "brand": "미쏘"
+   },
+   {
+    "name": "베이직 슬림핏 셔츠_MIWYWG110A (10)WHITE-S(090)",
+    "brand": "미쏘"
+   }
+  ],
+  "jsonld_total": 12,
+  "expected_query": "미쏘 베이직 슬림핏 셔츠_MIWYWG110A",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "아이더",
+  "category": "패션",
+  "url": "https://www.eider.co.kr/product?c=20",
+  "host": "www.eider.co.kr",
+  "og_title": "하의  I 아이더",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "하의 I 아이더",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "하의 I 아이더",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "디스커버리",
+  "category": "패션",
+  "url": "https://www.discovery-expedition.com/product-detail/DWDJ94166-GRL?gf=A",
+  "host": "www.discovery-expedition.com",
+  "og_title": "디스커버리 익스페디션 | 여성 에어웰 올리아 숏패딩 (글로시) (LIGHT GRAY)",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "디스커버리 익스페디션 | 여성 에어웰 올리아 숏패딩 (글로시) (LIGHT GRAY)",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "여성 에어웰 올리아 숏패딩 (글로시)",
+    "brand": "Discovery Expedition"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "Discovery Expedition 여성 에어웰 올리아 숏패딩 (글로시)",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "반스",
+  "category": "패션",
+  "url": "https://www.vans.co.kr/PRODUCT/VN00119BGWT?banner=.fa26_product_Harbor_Mule.Harbor_Mule.second_3",
+  "host": "www.vans.co.kr",
+  "og_title": null,
+  "og_site_name": "VANS",
+  "og_type": "product",
+  "title": "하버 뮬 VR3 - VANS",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "하버 뮬 VR3",
+  "source": "<title>",
+  "via": "http"
+ },
+ {
+  "name": "컬럼비아",
+  "category": "패션",
+  "url": "https://www.columbiakorea.co.kr/product/view.asp?pno=22182",
+  "host": "www.columbiakorea.co.kr",
+  "og_title": "[공식몰 단독] 남성 팀버 크레스트 MTR플리스 풀집 자켓 (C74AE8888278) | 컬럼비아 COLUMBIA",
+  "og_site_name": "COLUMBIA",
+  "og_type": "website",
+  "title": "[공식몰 단독] 남성 팀버 크레스트 MTR플리스 풀집 자켓 (C74AE8888278) | 컬럼비아 COLUMBIA",
+  "h1": "[공식몰 단독] 남성 팀버 크레스트 mtr플리스 풀집 자켓 (C74AE8888278) | 컬럼비아 COLUMBIA",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "남성 팀버 크레스트 MTR플리스 풀집 자켓 (C74AE8888278)",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "노스페이스",
+  "category": "패션",
+  "url": "https://www.thenorthfacekorea.co.kr/product/NJ1DS60C",
+  "host": "www.thenorthfacekorea.co.kr",
+  "og_title": "남성 트레일 팩 다운 자켓 DARK_KHAKI NJ1DS60C - 노스페이스",
+  "og_site_name": "노스페이스 공식 온라인 스토어",
+  "og_type": "product",
+  "title": "남성 트레일 팩 다운 자켓 DARK_KHAKI NJ1DS60C - 노스페이스",
+  "h1": "M'S TRAIL PACK DOWN JACKET",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "남성 트레일 팩 다운 자켓 DARK_KHAKI NJ1DS60C",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "아식스",
+  "category": "패션",
+  "url": "https://www.asics.co.kr/c/men-total",
+  "host": "www.asics.co.kr",
+  "og_title": "Men &gt; Featured &gt; 베스트셀러 - 아식스 공식 온라인스토어",
+  "og_site_name": "아식스 공식 온라인스토어",
+  "og_type": "website",
+  "title": "Men > Featured > 베스트셀러 - 아식스 공식 온라인스토어",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "Men > Featured > 베스트셀러",
+  "source": "og:title (JS 구현에서 갱신)",
+  "via": "headless-v2"
+ },
+ {
+  "name": "르꼬끄",
+  "category": "패션",
+  "url": "https://dk-on.com:443/LECOQSPORTIF/product/QR423LDJO2/GBL0",
+  "host": "dk-on.com:443",
+  "og_title": "[LE COQ SPORTIF] 유니 노바 라이트 루즈핏 다운 자켓",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[LE COQ SPORTIF] 유니 노바 라이트 루즈핏 다운 자켓",
+  "h1": "Le coq sportif",
+  "jsonld": [
+   {
+    "name": "유니 노바 라이트 루즈핏 다운 자켓 / SOFT KHAKI",
+    "brand": null
+   },
+   {
+    "name": "유니 노바 라이트 루즈핏 다운 자켓 / IVORY",
+    "brand": null
+   },
+   {
+    "name": "유니 노바 라이트 루즈핏 다운 자켓 / GREEN BLUE",
+    "brand": null
+   },
+   {
+    "name": "유니 노바 라이트 루즈핏 다운 자켓 / BLACK",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 4,
+  "expected_query": "유니 노바 라이트 루즈핏 다운 자켓",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "휠라",
+  "category": "패션",
+  "url": "https://www.fila.co.kr/products/1100fs264dj01f016091",
+  "host": "www.fila.co.kr",
+  "og_title": "[11/27 예약발송] 여성 에어플로우 후드 경량 다운",
+  "og_site_name": "FILA",
+  "og_type": "product",
+  "title": "[11/27 예약발송] 여성 에어플로우 후드 경량 다운 – FILA",
+  "h1": "[11/27 예약발송] 여성 에어플로우 후드 경량 다운",
+  "jsonld": [
+   {
+    "name": "[11/27 예약발송] 여성 에어플로우 후드 경량 다운 - WM(W90)",
+    "brand": null
+   },
+   {
+    "name": "[11/27 예약발송] 여성 에어플로우 후드 경량 다운",
+    "brand": "FILA"
+   }
+  ],
+  "jsonld_total": 2,
+  "expected_query": "여성 에어플로우 후드 경량 다운",
+  "source": "jsonld-variants(common prefix) (JS 구현에서 갱신)",
+  "via": "headless"
+ },
+ {
+  "name": "나이키",
+  "category": "패션",
+  "url": "https://www.nike.com/kr/t/%EC%97%90%EC%96%B4-%EC%A1%B0%EB%8D%98-1-%EB%A1%9C%EC%9A%B0-se-%EB%82%A8%EC%84%B1-%EC%8B%A0%EB%B0%9C-VoCwEKFg/JA4564-010",
+  "host": "www.nike.com",
+  "og_title": "에어 조던 1 로우 SE 남성 신발",
+  "og_site_name": "Nike.com",
+  "og_type": "website",
+  "title": "에어 조던 1 로우 SE 남성 신발. 나이키 코리아",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 13",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 12",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 11.5",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 11",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 10.5",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 10",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 9.5",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 9",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 8.5",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 8",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 7.5",
+    "brand": null
+   },
+   {
+    "name": "에어 조던 1 로우 SE 남성 신발 - 블랙/스프루스 포그/리플렉트 실버/뉴스프린트 - Size 7",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 13,
+  "expected_query": "에어 조던 1 로우 SE 남성 신발",
+  "source": "jsonld-variants(common prefix)",
+  "via": "headless-v2"
+ },
+ {
+  "name": "컨버스",
+  "category": "패션",
+  "url": "https://www.converse.co.kr/index.html",
+  "host": "www.converse.co.kr",
+  "og_title": "Converse",
+  "og_site_name": "Converse",
+  "og_type": "website",
+  "title": "척테일러 올스타 클래식 화이트 - Converse",
+  "h1": "신발 사이즈 차트",
+  "jsonld": [
+   {
+    "name": "척테일러 올스타 클래식 화이트 300",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 295",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 290",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 285",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 280",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 275",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 270",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 265",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 260",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 255",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 250",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 245",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 240",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 235",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 230",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 225",
+    "brand": "컨버스"
+   },
+   {
+    "name": "척테일러 올스타 클래식 화이트 220",
+    "brand": "컨버스"
+   }
+  ],
+  "jsonld_total": 17,
+  "expected_query": "컨버스 척테일러 올스타 클래식",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "푸마",
+  "category": "패션",
+  "url": "https://kr.puma.com/kr/ko/pd/%EC%8A%AC%EB%A6%BD%EC%BA%A3-%EB%B6%80%EC%B8%A0-%3Cbr%3Eslipcat-boots/410744.html?dwvar_410744_color=01&dwvar_410744_size=0180",
+  "host": "kr.puma.com",
+  "og_title": "슬립캣 부츠 <br>Slipcat Boots | Desert Tan-Haute Coffee | 푸마 신상품 | 푸마",
+  "og_site_name": "PUMA Korea",
+  "og_type": null,
+  "title": "슬립캣 부츠 <br>Slipcat Boots | Desert Tan-Haute Coffee | 푸마 신상품 | 푸마",
+  "h1": "슬립캣 부츠 Slipcat Boots",
+  "jsonld": [
+   {
+    "name": "슬립캣 부츠 Slipcat Boots",
+    "brand": "PUMA"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "PUMA 슬립캣 부츠 Slipcat Boots",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "젠틀몬스터",
+  "category": "패션",
+  "url": "https://www.gentlemonster.com/kr/ko/item/S11005175/maisonmargiela-mm30102",
+  "host": "www.gentlemonster.com",
+  "og_title": "메종 마르지엘라 - MM301 02 | 젠틀몬스터 공식 온라인 스토어",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "메종 마르지엘라 - MM301 02 | 젠틀몬스터 공식 온라인 스토어",
+  "h1": "메종 마르지엘라 - MM301 02",
+  "jsonld": [
+   {
+    "name": "메종 마르지엘라 - MM301 02",
+    "brand": "Gentle Monster"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "Gentle Monster 메종 마르지엘라 - MM301 02",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "올리브영",
+  "category": "뷰티",
+  "url": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000269535",
+  "host": "www.oliveyoung.co.kr",
+  "og_title": "[11월 올영픽/저자극레티놀앰플] 이니스프리 레티놀 시카 모공 흔적 앰플 30ml 더블 기획 (+겔 마스크 1매) | 올리브영",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[11월 올영픽/저자극레티놀앰플] 이니스프리 레티놀 시카 모공 흔적 앰플 30ml 더블 기획 (+겔 마스크 1매) | 올리브영",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "이니스프리 레티놀 시카 모공 흔적 앰플 30ml 더블 기획 (+겔 마스크 1매)",
+  "source": "og:title",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "크록스",
+  "category": "패션",
+  "url": "https://www.crocs.co.kr/p/212106.html?cid=2EY",
+  "host": "www.crocs.co.kr",
+  "og_title": "클래식 언퍼게터블 스웨이드 클로그",
+  "og_site_name": "Crocs",
+  "og_type": "website",
+  "title": "Logo Icon",
+  "h1": "클래식 언퍼게터블 스웨이드 클로그",
+  "jsonld": [
+   {
+    "name": "클래식 언퍼게터블 스웨이드 클로그",
+    "brand": "Crocs"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "Crocs 클래식 언퍼게터블 스웨이드 클로그",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "라운즈",
+  "category": "패션",
+  "url": "https://rounz.com/product.php?productIndex=3024909",
+  "host": "rounz.com",
+  "og_title": "블랙 CORAL C3 53mm 퍼블릭비컨 코랄 안경테 :: 라운즈(ROUNZ) - 세상에 없던 안경쇼핑",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "블랙 CORAL C3 53mm 퍼블릭비컨 코랄 안경테 :: 라운즈(ROUNZ) - 세상에 없던 안경쇼핑",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "블랙 CORAL C3 53mm 퍼블릭비컨 코랄 안경테",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "아모레몰",
+  "category": "뷰티",
+  "url": "https://www.amoremall.com/kr/ko/product/detail?onlineProdSn=17792&clickUrl=pc=1793933910045&cust=null&recommendId=e4d6c545-3bcb-43f5-be79-19da028c5be7&dp=MOB_REAL_ITEM_RANK&planId=RP-230915-121235&scenarioId=scenario_1&itemSetId=IS-230915-121212&targetGroupId=ALL&channelId=channel_2&abTestKey=0&ITEM_VALUE=111270000080",
+  "host": "www.amoremall.com",
+  "og_title": "[일리윤]세라마이드 아토 로션 | 아모레몰",
+  "og_site_name": "아모레퍼시픽",
+  "og_type": "website",
+  "title": "[일리윤]세라마이드 아토 로션 | 아모레몰",
+  "h1": "세라마이드 아토 로션 350ml",
+  "jsonld": [
+   {
+    "name": "Ceramide Ato Lotion 350ml",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato Lotion 350ml",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato Lotion 350ml",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato 5.0 Gentle Skin Cleanser",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato Bubble Wash & Shampoo",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato 6.0 Top to Toe Wash",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato Deep Moisture Skin",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato Soothing Gel",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato Concentrate Cream",
+    "brand": null
+   },
+   {
+    "name": "Ceramide Ato Lotion",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 로션 350ml",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 로션 350ml",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 로션 350ml",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토5.0 젠틀스킨클렌져",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 버블워시 앤 샴푸",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 6.0 탑투토 워시",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 속보습 스킨",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 수딩젤",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 집중크림",
+    "brand": null
+   },
+   {
+    "name": "세라마이드 아토 로션",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 20,
+  "expected_query": "세라마이드 아토 로션 350ml",
+  "source": "jsonld-pick(by og/title overlap)",
+  "via": "http"
+ },
+ {
+  "name": "이니스프리",
+  "category": "뷰티",
+  "url": "https://www.innisfree.com:443/kr/ko/dp/product/106193",
+  "host": "www.innisfree.com:443",
+  "og_title": "그린티 수분 세럼 130ml 슈퍼빅세일 BOX(130mL) | 이니스프리",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "그린티 수분 세럼 130ml 슈퍼빅세일 BOX(130mL) | 이니스프리",
+  "h1": "그린티 수분 세럼 130ml 슈퍼빅세일 BOX",
+  "jsonld": [
+   {
+    "name": "그린티 수분 세럼 130ml 슈퍼빅세일 BOX(130mL)",
+    "brand": "이니스프리"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "이니스프리 그린티 수분 세럼 130ml 슈퍼빅세일 BOX(130mL)",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "토니모리",
+  "category": "뷰티",
+  "url": "https://tonymoly.com:443/products/ceramide-mochi-toner-500ml.do?i_sProductcd=TM20260320000152821&i_sTypecd=0001&slide=3-6",
+  "host": "tonymoly.com:443",
+  "og_title": "세라마이드 모찌 토너 500ml | Tonymoly",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "세라마이드 모찌 토너 500ml | 토니모리 TONYMOLY",
+  "h1": "세라마이드 모찌 토너 500ml",
+  "jsonld": [
+   {
+    "name": "세라마이드 모찌 토너 500ml",
+    "brand": "토니모리"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "토니모리 세라마이드 모찌 토너 500ml",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "글로우픽",
+  "category": "뷰티",
+  "url": "https://www.glowpick.com/products/149393",
+  "host": "www.glowpick.com",
+  "og_title": "구달 맑은 어성초 진정 수분 선크림 [SPF50+/PA++++] | 소비자평점 4.6 리뷰 2303건 | 내돈내산 뷰티 리뷰, 글로우픽",
+  "og_site_name": "GLOWPICK",
+  "og_type": null,
+  "title": "구달 맑은 어성초 진정 수분 선크림 [SPF50+/PA++++] | 소비자평점 4.6 리뷰 2303건 | 내돈내산 뷰티 리뷰, 글로우픽",
+  "h1": "맑은 어성초 진정 수분 선크림 [SPF50+/PA++++]",
+  "jsonld": [
+   {
+    "name": "맑은 어성초 진정 수분 선크림 [SPF50+/PA++++]",
+    "brand": "구달"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "구달 맑은 어성초 진정 수분 선크림",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "네이처리퍼블릭",
+  "category": "뷰티",
+  "url": "https://www.naturerepublic.com/goods/goods/view?no=10554",
+  "host": "www.naturerepublic.com",
+  "og_title": "쉐어버터 스팀 크림(+크림 2ml 증정)",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "Nature Republic",
+  "h1": "네이쳐리퍼블릭 --> 네이쳐리퍼블릭",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "쉐어버터 스팀 크림(+크림 2ml 증정)",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "에뛰드",
+  "category": "뷰티",
+  "url": "https://brand.naver.com/etude/products/13436311394",
+  "host": "brand.naver.com",
+  "og_title": "[에뛰드] 컬픽스 마스카라 기획, 단품 8g[GIFT부분뷰러,마스크팩2매] : 에뛰드 본사직영샵",
+  "og_site_name": null,
+  "og_type": "article",
+  "title": "[에뛰드] 컬픽스 마스카라 기획, 단품 8g[GIFT부분뷰러,마스크팩2매] : 에뛰드 본사직영샵",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[에뛰드] 컬픽스 마스카라 기획, 단품 8g[GIFT부분뷰러,마스크팩2매]",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "라네즈",
+  "category": "뷰티",
+  "url": "https://laneige.com/product/%EB%9D%BC%EB%84%A4%EC%A6%88-%EB%B0%B8%EB%9F%B0%EC%8A%A4-%EB%AA%A8%EB%93%9C-%EB%9D%BC%EC%9D%B4%EC%8A%A4-%ED%8F%AC%EB%B0%8D-%EB%94%A5-%ED%81%B4%EB%A0%8C%EC%A0%80/101/",
+  "host": "laneige.com",
+  "og_title": "라네즈 밸런스 모드 라이스 포밍 딥 클렌저 | 라네즈 한국",
+  "og_site_name": "라네즈 한국",
+  "og_type": "product",
+  "title": "라네즈 밸런스 모드 라이스 포밍 딥 클렌저 | 라네즈 한국",
+  "h1": "라네즈 밸런스 모드 라이스 포밍 딥 클렌저 LANEIGE BALANCE MODE RICE FOAMING DEEP CLEANSER",
+  "jsonld": [
+   {
+    "name": "라네즈 밸런스 모드 라이스 포밍 딥 클렌저",
+    "brand": "Laneige"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "Laneige 라네즈 밸런스 모드 라이스 포밍 딥 클렌저",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "롬앤",
+  "category": "뷰티",
+  "url": "https://romand.co.kr/surl/P/1162",
+  "host": "romand.co.kr",
+  "og_title": "롬앤 더 쥬시 래스팅 틴트 #두유",
+  "og_site_name": "rom&nd",
+  "og_type": "product",
+  "title": "롬앤 더 쥬시 래스팅 틴트 #두유 - rom&nd",
+  "h1": "롬앤 더 쥬시 래스팅 틴트 #두유",
+  "jsonld": [
+   {
+    "name": "롬앤 더 쥬시 래스팅 틴트 #두유 42 소이 피그",
+    "brand": "rom&nd"
+   },
+   {
+    "name": "롬앤 더 쥬시 래스팅 틴트 #두유 41 소이 아몬드",
+    "brand": "rom&nd"
+   }
+  ],
+  "jsonld_total": 2,
+  "expected_query": "rom&nd 롬앤 더 쥬시 래스팅 틴트 #두유",
+  "source": "jsonld-variants(common prefix)",
+  "via": "http"
+ },
+ {
+  "name": "헤라",
+  "category": "뷰티",
+  "url": "https://hera.com/product/%EB%94%A5-%ED%81%B4%EB%A0%8C%EC%A7%95-%EC%98%A4%EC%9D%BC/173/",
+  "host": "hera.com",
+  "og_title": "딥 클렌징 오일 | HERA KOREA",
+  "og_site_name": "헤라",
+  "og_type": "product",
+  "title": "딥 클렌징 오일 | HERA KOREA",
+  "h1": "딥 클렌징 오일",
+  "jsonld": [
+   {
+    "name": "딥 클렌징 오일",
+    "brand": "헤라"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "헤라 딥 클렌징 오일",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "코스알엑스",
+  "category": "뷰티",
+  "url": "https://cosrx.co.kr/product/%EC%82%B4%EB%A6%AC%EC%8B%A4%EC%82%B0-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%A0%A0%ED%8B%80-%ED%81%B4%EB%A0%8C%EC%A0%80-150ml/162/",
+  "host": "cosrx.co.kr",
+  "og_title": "살리실산 데일리 젠틀 클렌저 150ml - 코스알엑스",
+  "og_site_name": "코스알엑스",
+  "og_type": "product",
+  "title": "코스알엑스 | 살리실산 데일리 젠틀 클렌저",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "살리실산 데일리 젠틀 클렌저 150ml",
+    "brand": "코스알엑스"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "코스알엑스 살리실산 데일리 젠틀 클렌저 150ml",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "바닐라코",
+  "category": "뷰티",
+  "url": "https://banila.com:443/product/detail.html?product_no=1201&cate_no=1&display_group=15",
+  "host": "banila.com:443",
+  "og_title": "[핫딜] 프라임 프라이머 선 베이스 50ml",
+  "og_site_name": "바닐라닷컴",
+  "og_type": "product",
+  "title": "[핫딜] 프라임 프라이머 선 베이스 50ml",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "[핫딜] 프라임 프라이머 선 베이스 50ml",
+    "brand": "바닐라닷컴"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "바닐라닷컴 프라임 프라이머 선 베이스 50ml",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "스킨푸드",
+  "category": "뷰티",
+  "url": "https://www.theskinfood.com/shop/shopdetail.html?branduid=10323547&search=&xcode=008&mcode=000&scode=&special=18&GfDT=amV9",
+  "host": "www.theskinfood.com",
+  "og_title": "스킨푸드 - [ONLY공식몰] 스킨푸드 패드 리필 7종 (당근 PDRN 패드 증정)",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "스킨푸드 - [ONLY공식몰] 스킨푸드 패드 리필 7종 (당근 PDRN 패드 증정)",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "[ONLY공식몰] 스킨푸드 패드 리필 7종 (당근 PDRN 패드 증정)",
+    "brand": null
+   },
+   {
+    "name": "라이스클렌징",
+    "brand": null
+   },
+   {
+    "name": "딸기슈가마스크",
+    "brand": null
+   },
+   {
+    "name": "판토테닉에센스",
+    "brand": null
+   },
+   {
+    "name": "나이아신앰플",
+    "brand": null
+   },
+   {
+    "name": "복숭아패드",
+    "brand": null
+   },
+   {
+    "name": "당근패드",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 7,
+  "expected_query": "스킨푸드 패드 리필 7종 (당근 PDRN 패드 증정)",
+  "source": "jsonld-pick(by og/title overlap)",
+  "via": "http"
+ },
+ {
+  "name": "토리든",
+  "category": "뷰티",
+  "url": "https://torriden.com/goods/goods_view.php?goodsNo=2393",
+  "host": "torriden.com",
+  "og_title": "솔리드인 세라마이드 크림 토너200ml",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "토리든 Torriden",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "솔리드인 세라마이드 크림 토너200ml",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "마녀공장",
+  "category": "뷰티",
+  "url": "https://manyo.co.kr/goods/goods_view.php?goodsNo=1000000397",
+  "host": "manyo.co.kr",
+  "og_title": "퓨어 소이빈 클렌징 오일 200mlPure Soybean Cleansing Oil",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "마녀공장",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "퓨어 소이빈 클렌징 오일 200mlPure Soybean Cleansing Oil",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "전자랜드",
+  "category": "전자",
+  "url": "https://www.etlandmall.co.kr/pc/product/productList.do?idx=10052&XAREA=qck_201858&ifdotrk_campaign=qck_201858&ifdotrk_slot=12",
+  "host": "www.etlandmall.co.kr",
+  "og_title": "쿠쿠 아이편한 7L 복합식 스텐 가습기 CH-HS701FW",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "쿠쿠 아이편한 7L 복합식 스텐 가습기 CH-HS701FW",
+  "h1": "쿠쿠 아이편한 7L 복합식 스텐 가습기 CH-HS701FW",
+  "jsonld": [
+   {
+    "name": "쿠쿠 아이편한 7L 복합식 스텐 가습기 CH-HS701FW",
+    "brand": "쿠쿠전자"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "쿠쿠전자 쿠쿠 아이편한 7L 복합식 스텐 가습기 CH-HS701FW",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "달바",
+  "category": "뷰티",
+  "url": "https://dalba.co.kr/goods/goods_view.php?goodsNo=1000000816",
+  "host": "dalba.co.kr",
+  "og_title": "달바 시그니처 올쎄라 더블샷",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "달바 시그니처 올쎄라 더블샷 - 달바부티크",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "달바 시그니처 올쎄라 더블샷",
+    "brand": "d'Alba"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "d'Alba 달바 시그니처 올쎄라 더블샷",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "소니스토어",
+  "category": "전자",
+  "url": "https://store.sony.co.kr/product-view/102263322",
+  "host": "store.sony.co.kr",
+  "og_title": null,
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "WH-1000XM6 : 오디오 : 헤드폰",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "WH-1000XM6",
+  "source": "<title>",
+  "via": "http"
+ },
+ {
+  "name": "쿠쿠",
+  "category": "전자",
+  "url": "https://www.cuckoo.co.kr/mall/productView?productNo=7691",
+  "host": "www.cuckoo.co.kr",
+  "og_title": "쿠쿠 커피머신 더크레마 에스프레소(루미 화이트)",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "CUCKOO",
+  "h1": "장바구니",
+  "jsonld": [
+   {
+    "name": "쿠쿠 커피머신 더크레마 에스프레소(루미 화이트)",
+    "brand": "쿠쿠"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "쿠쿠 커피머신 더크레마 에스프레소(루미 화이트)",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "한성컴퓨터",
+  "category": "전자",
+  "url": "https://www.superstore.co.kr/item/item.html?pn=227861",
+  "host": "www.superstore.co.kr",
+  "og_title": "TFG24Q42PCMW QHD Fast IPS 420Hz 게이밍 화이트 : 한성컴퓨터 슈퍼스토어",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "TFG24Q42PCMW QHD Fast IPS 420Hz 게이밍 화이트 : 한성컴퓨터 슈퍼스토어",
+  "h1": "",
+  "jsonld": [
+   {
+    "name": "TFG24Q42PCMW QHD Fast IPS 420Hz 게이밍 화이트",
+    "brand": "한성컴퓨터"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "한성컴퓨터 TFG24Q42PCMW QHD Fast IPS 420Hz 게이밍 화이트",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "컴퓨존",
+  "category": "전자",
+  "url": "https://www.compuzone.co.kr/product/product_detail.htm?ProductNo=1395037&bannerId=Weekly",
+  "host": "www.compuzone.co.kr",
+  "og_title": "[ASUS] ★50대 한정 단독특가499,000★ 비보북 고15 E1504TA-BQ395W (N150/8GB/128G/Win11Home) [기본제품] : 컴퓨존",
+  "og_site_name": "컴퓨존",
+  "og_type": "website",
+  "title": "[ASUS] ★50대 한정 단독특가499,000★ 비보북 고15 E1504TA-BQ395W (N150/8GB/128G/Win11Home) [기본제품] : 컴퓨존",
+  "h1": "대한민국 1등 컴퓨터, 전자제품 종합 쇼핑몰 컴퓨존",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[ASUS] 50대 한정 단독특가499,000 비보북 고15 E1504TA-BQ395W [기본제품]",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "오늘의집",
+  "category": "리빙",
+  "url": "https://store.ohou.se/goods/2254548",
+  "host": "store.ohou.se",
+  "og_title": "[오늘의집 단독] 오우드 패브릭 원목 수납 침대 프레임 SS Q K K+ LK LK+",
+  "og_site_name": "라이프스타일 슈퍼앱, 오늘의집",
+  "og_type": "product",
+  "title": "일반침대 > [오늘의집 단독] 오우드 패브릭 원목 수납 침대 프레임 SS Q K K+ LK LK+ | 오늘의집 쇼핑",
+  "h1": "[오늘의집 단독] 오우드 패브릭 원목 수납 침대 프레임 SS Q K K+ LK LK+",
+  "jsonld": [
+   {
+    "name": "[오늘의집 단독] 오우드 패브릭 원목 수납 침대 프레임 SS Q K K+ LK LK+",
+    "brand": "라미에스"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "라미에스 오우드 패브릭 원목 수납 침대 프레임 SS Q K K+ LK LK+",
+  "source": "jsonld",
+  "via": "headed-chrome"
+ },
+ {
+  "name": "애플",
+  "category": "전자",
+  "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+  "host": "www.apple.com",
+  "og_title": "iPhone 18 Pro 및 iPhone 18 Pro Max 쇼핑하기. ₩1,990,000부터.",
+  "og_site_name": "Apple (KR)",
+  "og_type": "product",
+  "title": "iPhone 18 Pro 및 iPhone 18 Pro Max 쇼핑하기. ₩1,990,000부터. - Apple (KR)",
+  "h1": "iPhone 18 Pro 구입하기",
+  "jsonld": [
+   {
+    "name": "iPhone 18 Pro",
+    "brand": null
+   },
+   {
+    "name": "iPhone 18 Pro Max",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 2,
+  "expected_query": "iPhone 18 Pro 및 iPhone 18 Pro Max 쇼핑하기. ₩1,990,000부터.",
+  "source": "jsonld-variants(common prefix)→korean(og/h1)",
+  "via": "headless-v2"
+ },
+ {
+  "name": "로지텍",
+  "category": "전자",
+  "url": "https://www.logitech.com/fr-fr/business/shop/p/ergo-m575-for-business",
+  "host": "www.logitech.com",
+  "og_title": "Souris trackball sans fil ERGO M575 for Business | Logitech",
+  "og_site_name": "Logitech",
+  "og_type": "website",
+  "title": "Souris trackball sans fil ERGO M575 for Business | Logitech",
+  "h1": "ERGO M575 Wireless Trackball for Business",
+  "jsonld": [
+   {
+    "name": "ERGO M575 Wireless Trackball for Business",
+    "brand": "Logitech"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "Logitech ERGO M575 Wireless Trackball for Business",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "일룸",
+  "category": "리빙",
+  "url": "https://www.iloom.com/series/series.do?sn=1174",
+  "host": "www.iloom.com",
+  "og_title": "일룸 시리즈 모어 | 당신의 공간을 특별하게 만들어줄 일룸 시리즈",
+  "og_site_name": "일룸 iloom",
+  "og_type": "website",
+  "title": "일룸 시리즈 모어 | 당신의 공간을 특별하게 만들어줄 일룸 시리즈",
+  "h1": "모어",
+  "jsonld": [
+   {
+    "name": "모어 협탁 400폭(패널, 코너형 R)",
+    "brand": null
+   },
+   {
+    "name": "모어 협탁 400폭(패널, 코너형 L)",
+    "brand": null
+   },
+   {
+    "name": "모어 협탁 400폭(패널형)",
+    "brand": null
+   },
+   {
+    "name": "모어 모션베드 다리형 SS (일체형,스프링)",
+    "brand": null
+   },
+   {
+    "name": "모어 모션베드 다리형 SS (일체형,메모리폼)",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 5,
+  "expected_query": "당신의 공간을 특별하게 만들어줄 일룸 시리즈",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "이케아",
+  "category": "리빙",
+  "url": "https://www.ikea.com/kr/ko/p/raskog-trolley-white-20586788/",
+  "host": "www.ikea.com",
+  "og_title": "RÅSKOG 로스코그 트롤리, 화이트, 35x45x77 cm",
+  "og_site_name": "IKEA",
+  "og_type": "product",
+  "title": "RÅSKOG 로스코그 트롤리, 화이트, 35x45x77 cm - IKEA",
+  "h1": "RÅSKOG 로스코그 트롤리, 화이트, 35x45x77 cm",
+  "jsonld": [
+   {
+    "name": "RÅSKOG 로스코그 트롤리 - 화이트 35x45x77 cm",
+    "brand": "IKEA"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "IKEA RÅSKOG 로스코그 트롤리 - 화이트 35x45x77 cm",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "다이슨",
+  "category": "전자",
+  "url": "https://www.dyson.co.kr/detail-cleaning-kit-974683-01",
+  "host": "www.dyson.co.kr",
+  "og_title": "디테일 클리닝 키트",
+  "og_site_name": null,
+  "og_type": "og:product",
+  "title": "디테일 클리닝 키트",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "디테일 클리닝 키트",
+    "brand": "Dyson"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "Dyson 디테일 클리닝 키트",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "에이스침대",
+  "category": "리빙",
+  "url": "https://www.acebed.com/product/bed/frame/view.do?pageIndex=1&listCnt=12&listType=1&ordType=&detailsKey=35&q=1086&sizeCd=|K|,|LQ|,|DD|,|SS|",
+  "host": "www.acebed.com",
+  "og_title": "BMA1086",
+  "og_site_name": "에이스침대",
+  "og_type": "website",
+  "title": "BMA1086 | 프레임 | BED | 에이스침대",
+  "h1": "ACE BED",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "BMA1086",
+  "source": "og:title",
+  "via": "headless"
+ },
+ {
+  "name": "데스커",
+  "category": "리빙",
+  "url": "https://www.desker.co.kr/product/detail/103",
+  "host": "www.desker.co.kr",
+  "og_title": "(벽고정)W1400 6단 책상세트 콘센트형(조명,상부도어) | 데스커",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "(벽고정)W1400 6단 책상세트 콘센트형(조명,상부도어) | 데스커",
+  "h1": "W1400 6단 책상세트 콘센트형 (조명,상부도어) DSCJ146ALS",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "(벽고정)W1400 6단 책상세트 콘센트형(조명,상부도어)",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "락앤락몰",
+  "category": "리빙",
+  "url": "https://www.locknlockmall.com/goods/goods_view.php?goodsNo=70702",
+  "host": "www.locknlockmall.com",
+  "og_title": "올핏 보온도시락",
+  "og_site_name": null,
+  "og_type": "product",
+  "title": "올핏 보온도시락 - 락앤락몰",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "올핏 보온도시락",
+  "source": "og:title",
+  "via": "headless-v2"
+ },
+ {
+  "name": "롯데하이마트",
+  "category": "전자",
+  "url": "https://www.e-himart.co.kr/app/goods/goodsDetail?goodsNo=0000004540",
+  "host": "www.e-himart.co.kr",
+  "og_title": "롯데하이마트",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "롯데하이마트 | 테팔 커피메이커 CM-3618 (1.25L)",
+  "h1": "드롭다운 버튼",
+  "jsonld": [
+   {
+    "name": "테팔 커피메이커 CM-3618 (1.25L)",
+    "brand": "테팔"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "테팔 커피메이커 CM-3618 (1.25L)",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "마켓비",
+  "category": "리빙",
+  "url": "https://www.marketb.kr/product/detail.html?product_no=32019&cate_no=1&display_group=2",
+  "host": "www.marketb.kr",
+  "og_title": "빙그리 회전서랍 트롤리 5단 - 마켓비",
+  "og_site_name": "사무용수납장 - 마켓비",
+  "og_type": "product",
+  "title": "마켓비 | 마켓비 빙그리 회전서랍 트롤리 5단 - 간편조립",
+  "h1": null,
+  "jsonld": [
+   {
+    "name": "빙그리 회전서랍 트롤리 5단",
+    "brand": "마켓비"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "마켓비 빙그리 회전서랍 트롤리 5단",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "컬리",
+  "category": "식품",
+  "url": "https://www.kurly.com/goods/1000608637?collectionCode=2611-blackweek-home-01",
+  "host": "www.kurly.com",
+  "og_title": "[일일특가]치밥하기 좋은 순살 바베큐치킨 - 마켓컬리",
+  "og_site_name": "컬리 - 마켓컬리/뷰티컬리",
+  "og_type": "website",
+  "title": "[일일특가]치밥하기 좋은 순살 바베큐치킨 - 마켓컬리",
+  "h1": "[일일특가]치밥하기 좋은 순살 바베큐치킨",
+  "jsonld": [
+   {
+    "name": "[일일특가]치밥하기 좋은 순살 바베큐치킨",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "치밥하기 좋은 순살 바베큐치킨",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "모던하우스",
+  "category": "리빙",
+  "url": "https://modernhouse.elandmall.co.kr/i/item?itemNo=2508055743",
+  "host": "modernhouse.elandmall.co.kr",
+  "og_title": "[모던하우스] PESPES. 큐브 캐리어 26년 신상출시- 모던하우스",
+  "og_site_name": "모던하우스",
+  "og_type": "website",
+  "title": "[모던하우스] PESPES. 큐브 캐리어 26년 신상출시- 모던하우스",
+  "h1": "모던하우스",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[모던하우스] PESPES. 큐브 캐리어 26년 신상출시",
+  "source": "og:title (JS 구현에서 갱신)",
+  "via": "http"
+ },
+ {
+  "name": "윙잇",
+  "category": "식품",
+  "url": "https://www.wingeat.com/item/1999bigporkcutlet-2024-01-17",
+  "host": "www.wingeat.com",
+  "og_title": "[슈퍼딜] 소보키 산더미 마라전골 (2~3인분) : 윙잇, 세상에 없던 간편 한 끼",
+  "og_site_name": "윙잇",
+  "og_type": "website",
+  "title": "[슈퍼딜] 소보키 산더미 마라전골 (2~3인분) : 윙잇, 세상에 없던 간편 한 끼",
+  "h1": "[슈퍼딜] 소보키 산더미 마라전골 (2~3인분)",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[슈퍼딜] 소보키 산더미 마라전골 (2~3인분)",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "오아시스마켓",
+  "category": "식품",
+  "url": "https://www.oasis.co.kr/product/detail/131743",
+  "host": "www.oasis.co.kr",
+  "og_title": "[20%쿠폰]제주 은갈치 (대) (350g)",
+  "og_site_name": null,
+  "og_type": "website",
+  "title": "[20%쿠폰]제주 은갈치 (대) (350g) - 오아시스마켓::세상에 없는 가격",
+  "h1": "[20%쿠폰]제주 은갈치 (대) (350g)",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "제주 은갈치 (대) (350g)",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "CJ더마켓",
+  "category": "식품",
+  "url": "https://www.cjthemarket.com/the/product/theme-product-list?spclCtgrId=0522",
+  "host": "www.cjthemarket.com",
+  "og_title": "유럽의 맛 추천테마 | CJ더마켓 : CJ제일제당 공식몰",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "유럽의 맛 추천테마 | CJ더마켓 : CJ제일제당 공식몰",
+  "h1": "",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "유럽의 맛 추천테마",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "오뚜기몰",
+  "category": "식품",
+  "url": "https://www.otokimall.com/front/product/6945",
+  "host": "www.otokimall.com",
+  "og_title": "한강라면(110Gx4)",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "봉지라면 ｜ 오뚜기몰엔 다 있다! 오뚜기몰 ┃맛으로 행복을 잇다, 오뚜기몰엔 다 있다!",
+  "h1": "오뚜기 Mall",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "한강라면(110Gx4)",
+  "source": "og:title",
+  "via": "http"
+ },
+ {
+  "name": "더반찬",
+  "category": "식품",
+  "url": "https://www.dongwonmall.com/product/detail.do?productId=000624895",
+  "host": "www.dongwonmall.com",
+  "og_title": null,
+  "og_site_name": null,
+  "og_type": null,
+  "title": "[신라명과] 마드레느 32개세트(대) /마들렌_동원몰",
+  "h1": "동원몰",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "[신라명과] 마드레느 32개세트(대) /마들렌_동원몰",
+  "source": "<title>",
+  "via": "headless"
+ },
+ {
+  "name": "동원몰",
+  "category": "식품",
+  "url": "https://www.dongwonmall.com/product/detail.do?productId=004050895",
+  "host": "www.dongwonmall.com",
+  "og_title": null,
+  "og_site_name": null,
+  "og_type": null,
+  "title": "동원 그릴리 직화치킨 닭가슴살 오리지널 105g x 15개_동원몰",
+  "h1": "동원몰",
+  "jsonld": [
+   {
+    "name": "동원 그릴리 직화치킨 닭가슴살 오리지널 105g x 15개",
+    "brand": "동원"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "동원 그릴리 직화치킨 닭가슴살 오리지널 105g x 15개",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "중고나라",
+  "category": "기타",
+  "url": "https://web.joongna.com/product/233584761",
+  "host": "web.joongna.com",
+  "og_title": "한우정액. kpn.1489 1527 1567 1606 1642 1661 1689 1696 1715 1718 1767",
+  "og_site_name": null,
+  "og_type": null,
+  "title": "한우정액. kpn.1489 1527 1567 1606 1642 1661 1689 1696 1715 1718 1767 | 중고나라 - 안심되는 중고거래",
+  "h1": "한우정액. kpn.1489 1527 1567 1606 1642 1661 1689 1696 1715 1718 1767",
+  "jsonld": [
+   {
+    "name": "한우정액. kpn.1489 1527 1567 1606 1642 1661 1689 1696 1715 1718 1767",
+    "brand": null
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "한우정액. kpn.1489 1527 1567 1606 1642 1661 1689 1696 1715 1718",
+  "source": "jsonld",
+  "via": "http"
+ },
+ {
+  "name": "펫프렌즈",
+  "category": "기타",
+  "url": "https://m.pet-friends.co.kr/product/detail/238473?GIF+%EC%97%AC%EB%B6%80=N&favoriteRecommendCart=N&fromAd=N&productId=238473&rccode=HOME_SNACK_TOY&recommendCart=N&%EB%AC%B6%EC%9D%8C%EC%83%81%ED%92%88+%EC%97%AC%EB%B6%80=Y&tabInfoId=14327&tabMenuId=122&tabMenuName=HOME%28%EB%A6%AC%EB%89%B4%EC%96%BC%2F%EB%B9%84%EB%85%B8%EC%B6%9C%29&tabTitle=%23%7Banimal_age%7D+%23%7Banimal_name%7D+%23%7Bgender_name%7D%EB%8B%98%EC%9D%B4+%EC%A2%8B%EC%95%84%ED%95%A0+%23%7Bproduct_percent%7D+%EC%9D%B8%EA%B8%B0+%23%7Bcategory%7D%EC%9D%B4%EC%97%90%EC%9A%94&%ED%83%80%EC%9E%85=%EC%B6%94%EC%B2%9C+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98&title=%ED%95%A0%EC%9D%B8+%EC%83%81%ED%92%88+%EC%B6%94%EC%B2%9C&%EC%B6%94%EC%B2%9C%EC%97%94%EC%A7%84=%EC%95%84%EC%9D%B4%EA%B2%90%EC%BD%94%EB%A6%AC%EC%95%84",
+  "host": "m.pet-friends.co.kr",
+  "og_title": "[3개월분/90스틱] 베스트 프라이스 푸푸루틴 유산균 2g x 30p x 3개  강아지 간식 | 반려동물 1등 쇼핑몰 - 펫프렌즈",
+  "og_site_name": "반려동물 1등 쇼핑몰, 펫프렌즈",
+  "og_type": "website",
+  "title": "[3개월분/90스틱] 베스트 프라이스 푸푸루틴 유산균 2g x 30p x 3개 강아지 간식 | 반려동물 1등 쇼핑몰 - 펫프렌즈",
+  "h1": "[3개월분/90스틱] 베스트 프라이스 푸푸루틴 유산균 2g x 30p x 3개",
+  "jsonld": [
+   {
+    "name": "[3개월분/90스틱] 베스트 프라이스 푸푸루틴 유산균 2g x 30p x 3개",
+    "brand": "베스트 프라이스"
+   }
+  ],
+  "jsonld_total": 1,
+  "expected_query": "베스트 프라이스 푸푸루틴 유산균 2g x 30p x 3개",
+  "source": "jsonld",
+  "via": "headless"
+ },
+ {
+  "name": "그립",
+  "category": "기타",
+  "url": "https://www.grip.show/content/9684mzg3?prev=main&seq=1",
+  "host": "www.grip.show",
+  "og_title": "국내에서 제일 맛있는 감홍🍎/프리미엄 귤 당일발송 가격인하",
+  "og_site_name": "Grip",
+  "og_type": "website",
+  "title": "국내에서 제일 맛있는 감홍🍎/프리미엄 귤 당일발송 가격인하",
+  "h1": null,
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "국내에서 제일 맛있는 감홍 /프리미엄 귤 당일발송 가격인하",
+  "source": "og:title",
+  "via": "headless-v2"
+ },
+ {
+  "name": "테팔",
+  "category": "리빙",
+  "url": "https://www.tefal.co.kr/%EC%A3%BC%EB%B0%A9%EC%9A%A9%ED%92%88/%ED%94%84%EB%9D%BC%EC%9D%B4%ED%8C%AC-%26-%EB%83%84%EB%B9%84/%ED%85%8C%ED%8C%94-%EC%9D%B8%EB%8D%95%EC%85%98-%EC%8A%A4%ED%85%8C%EC%9D%B8%EB%A6%AC%EC%8A%A4-%EC%8A%A4%ED%8B%B8-%ED%8D%BC%ED%8E%99%ED%8A%B8-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8-%EB%83%84%EB%B9%84/p/2100140799",
+  "host": "www.tefal.co.kr",
+  "og_title": "테팔 인덕션 스테인리스 스틸 퍼펙트 레지스트 냄비",
+  "og_site_name": "Tefal KR Web Site",
+  "og_type": "website",
+  "title": "TEFAL 테팔 인덕션 스테인리스 스틸 퍼펙트 레지스트 냄비 H8184424",
+  "h1": "테팔 인덕션 스테인리스 스틸 퍼펙트 레지스트 냄비",
+  "jsonld": [],
+  "jsonld_total": 0,
+  "expected_query": "테팔 인덕션 스테인리스 스틸 퍼펙트 레지스트 냄비",
+  "source": "og:title",
+  "via": "http"
+ }
+]
