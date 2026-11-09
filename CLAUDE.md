@@ -11,6 +11,7 @@
 - 테스트: `npm test`
 - 익스텐션 로드: `chrome://extensions` → 개발자 모드 → "압축해제된 확장 프로그램을 로드합니다" → 이 폴더 선택
 - 아이콘 재생성: `python3 scripts/make-icons.py`
+- 웹 스토어 업로드용 zip: `scripts/package.sh` → `dist/`. 등록 칸별 문구와 이미지는 `docs/store/`
 
 ## 구조
 
