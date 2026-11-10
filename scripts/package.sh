@@ -9,5 +9,5 @@ out="dist/naver-price-check-${version}.zip"
 npm test --silent > /dev/null
 mkdir -p dist
 rm -f "$out"
-zip -q -X "$out" manifest.json background.js extractor.js naver.js popup.html popup.css popup.js icons/*.png
+zip -q -X "$out" manifest.json background.js extractor.js naver.js opener.js split.js popup.html popup.css popup.js icons/*.png
 unzip -l "$out"

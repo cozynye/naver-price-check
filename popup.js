@@ -1,11 +1,14 @@
 'use strict';
 // 팝업: 현재 탭에 extractor.js를 주입해 상품명을 받고, Enter 또는 버튼으로 네이버 쇼핑 탭을 연다.
+// "옆에 열기"는 서비스 워커에 맡긴다. 새 창이 포커스를 가져가면 팝업이 닫혀 작업이 끊기기 때문이다.
 
 const input = document.getElementById('query');
 const button = document.getElementById('search');
+const splitButton = document.getElementById('split');
 const webLink = document.getElementById('web-search');
 const status = document.getElementById('status');
 const form = document.getElementById('form');
+let activeWindowId = null;
 
 function currentQuery() {
   return NaverSearch.normalizeQuery(input.value);
@@ -14,6 +17,7 @@ function currentQuery() {
 function syncState() {
   const q = currentQuery();
   button.disabled = !q;
+  splitButton.disabled = !q;
   webLink.href = q ? NaverSearch.webSearchUrl(q) : '#';
 }
 
@@ -22,22 +26,15 @@ function openSearch(url) {
   window.close();
 }
 
+async function openSplit(url) {
+  await chrome.runtime.sendMessage({ type: 'open-split', url, windowId: activeWindowId });
+  window.close();
+}
+
 async function readProductFromActiveTab() {
   const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
-  if (!tab || tab.id == null || !/^https?:/i.test(tab.url || '')) {
-    return { query: '', source: 'unavailable', brand: null };
-  }
-  try {
-    await chrome.scripting.executeScript({ target: { tabId: tab.id }, files: ['extractor.js'] });
-    const results = await chrome.scripting.executeScript({
-      target: { tabId: tab.id },
-      func: () => globalThis.NaverPriceCheck.extractFromPage(document, String(window.getSelection ? window.getSelection() : '')),
-    });
-    const r = results && results[0] && results[0].result;
-    return r && typeof r.query === 'string' ? r : { query: '', source: 'none', brand: null };
-  } catch (e) {
-    return { query: '', source: 'unavailable', brand: null };
-  }
+  activeWindowId = tab ? tab.windowId : null;
+  return NaverOpener.readQueryFromTab(tab);
 }
 
 function statusFor(result) {
@@ -52,6 +49,10 @@ form.addEventListener('submit', (event) => {
   event.preventDefault();
   const q = currentQuery();
   if (q) openSearch(NaverSearch.shoppingSearchUrl(q));
+});
+splitButton.addEventListener('click', () => {
+  const q = currentQuery();
+  if (q) openSplit(NaverSearch.shoppingSearchUrl(q));
 });
 webLink.addEventListener('click', (event) => {
   event.preventDefault();

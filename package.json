@@ -1,6 +1,6 @@
 {
   "name": "naver-price-check",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "보고 있는 상품을 네이버 쇼핑에서 바로 검색하는 Chrome 익스텐션",
   "type": "commonjs",

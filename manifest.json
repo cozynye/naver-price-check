@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "네이버 쇼핑 바로검색",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "보고 있는 상품을 네이버 쇼핑에서 바로 검색해 가격을 비교한다.",
-  "permissions": ["activeTab", "scripting", "contextMenus"],
+  "permissions": ["activeTab", "scripting", "contextMenus", "storage"],
   "action": {
     "default_popup": "popup.html",
     "default_title": "네이버 쇼핑에서 검색 (Alt+Shift+N)",
@@ -30,6 +30,13 @@
         "mac": "Alt+Shift+N"
       },
       "description": "네이버 쇼핑 검색 팝업 열기"
+    },
+    "search-split": {
+      "suggested_key": {
+        "default": "Alt+Shift+S",
+        "mac": "Alt+Shift+S"
+      },
+      "description": "팝업 없이 현재 창 옆에 네이버 쇼핑 검색 결과 열기"
     }
   }
 }
